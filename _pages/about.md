@@ -35,7 +35,7 @@ My current research interests broadly revolve around efficient NLP, especially:
 
 <br />
 
-# 📝 Publications
+# 📝 <a id="-Publications">Publications</a>
 
 \* indicates equal contributions
 
