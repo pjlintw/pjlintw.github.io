@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Linus Lin"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -33,3 +33,14 @@ My current research interests broadly revolve around efficient NLP, especially:
 - *2018.07*: I gave a invited talk about Python programming on Digital Humanities Workshop at National Taiwan University.
 
 
+# 📝 Publication
+
+Revisiting Sample Size Determination in Natural Language Understanding
+Ernie Chang*, Muhammad Hassan Rashid*, **Pin-Jie Lin\***, Changsheng Zhao, Vera Demberg, Yangyang Shi and Vikas Chandra
+ACL 2023 Findings
+[Paper]
+
+Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization
+Dongqi Pu*, Xudong Hong*, **Pin-Jie Lin\***, Ernie Chang, Vera Demberg
+COLING 2022 
+[Paper](https://aclanthology.org/2022.creativesumm-1.9/)
