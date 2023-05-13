@@ -38,11 +38,24 @@ My current research interests broadly revolve around efficient NLP, especially:
 # 📝 Publication
 
 Revisiting Sample Size Determination in Natural Language Understanding <br />
-Ernie Chang\*, Muhammad Hassan Rashid\*, **<ins>Pin-Jie Lin</ins>\***, Changsheng Zhao, Vera Demberg, Yangyang Shi and Vikas Chandra <br />
+Ernie Chang\*, Muhammad Hassan Rashid\*, **<ins>Pin-Jie Lin</ins>\***, Changsheng Zhao, Vera Demberg, Yangyang Shi and Vikas Chandra (\*euqal contribution)<br />
 ACL 2023 Findings <br />
-[TBA]
+[TBA] <br />
 
 Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization <br />
-Dongqi Pu\*, Xudong Hong\*, **<ins>Pin-Jie Lin</ins>\***, Ernie Chang, Vera Demberg <br />
+Dongqi Pu\*, Xudong Hong\*, **<ins>Pin-Jie Lin</ins>\***, Ernie Chang, Vera Demberg (\*euqal contribution) <br />
 COLING 2022 <br />
-[\[Paper\]](https://aclanthology.org/2022.creativesumm-1.9/)
+[\[Paper\]](https://aclanthology.org/2022.creativesumm-1.9/) <br />
+
+
+Event Extraction: Convolutional Neural Networks for Extracting Medieval
+Chinese Monk’s Travels  <br />
+**<ins>Pin-Jie Lin</ins>**, Bing-Lin Hsieh  <br />
+International Conference of Digital Archives and Digital Humanitie 2019 <br />
+
+Name Recognition of Medieval Chinese
+Monk Names <br />
+Severina Balabanova, **<ins>Pin-Jie Lin</ins>**, Ya-Lin Chen, Wan-Chun Chiu <br />
+International Conference of Digital Archives and Digital Humanities 2018 <br />
+
+
