@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Linus Lin"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am a second year master's student at the [Language Science and Technology department](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University where I work with [Dietriech Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Prior to that, I worked with [Richard Tzong-Han Tsai](https://www.iisr.csie.ncu.edu.tw/faculty) and [Liu Yuan-ju](https://www.litphil.sinica.edu.tw/people/researchers/Liu,%20Yuan-ju) at National Central University and Academia Sinica, Taiwan. 
 
