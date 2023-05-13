@@ -37,7 +37,7 @@ My current research interests broadly revolve around efficient NLP, especially:
 
 # 📝 Publication
 
-* indicates equal contributions
+\* indicates equal contributions
 
 **Revisiting Sample Size Determination in Natural Language Understanding** <br />
 Ernie Chang\*, Muhammad Hassan Rashid\*, **<ins>Pin-Jie Lin</ins>\***, Changsheng Zhao, Vera Demberg, Yangyang Shi and Vikas Chandra <br />
