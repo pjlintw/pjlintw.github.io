@@ -35,7 +35,7 @@ My current research interests broadly revolve around efficient NLP, especially:
 
 <br />
 
-# 📝 Publication
+# 📝 Publications
 
 \* indicates equal contributions
 
