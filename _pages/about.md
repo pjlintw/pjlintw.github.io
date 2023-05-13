@@ -16,6 +16,7 @@ My current research interests broadly revolve around efficient NLP, especially:
 - Conditional generation for low-resource languages
 - Semantic space for task information encoding
 
+<br />
 
 # 🔥 News
 - *2023.05*: 🎉🎉 Our new paper has been accepted at ACL 2023 findings. 
@@ -32,15 +33,16 @@ My current research interests broadly revolve around efficient NLP, especially:
 - *2018.12*: Our paper will be presented at conference DADH 2018. 
 - *2018.07*: I gave a invited talk about Python programming on Digital Humanities Workshop at National Taiwan University.
 
+<br />
 
 # 📝 Publication
 
-Revisiting Sample Size Determination in Natural Language Understanding
-Ernie Chang*, Muhammad Hassan Rashid*, **Pin-Jie Lin\***, Changsheng Zhao, Vera Demberg, Yangyang Shi and Vikas Chandra
-ACL 2023 Findings
-[Paper]
+Revisiting Sample Size Determination in Natural Language Understanding <br />
+Ernie Chang\*, Muhammad Hassan Rashid\*, **<ins>Pin-Jie Lin</ins>\***, Changsheng Zhao, Vera Demberg, Yangyang Shi and Vikas Chandra <br />
+ACL 2023 Findings <br />
+[TBA]
 
-Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization
-Dongqi Pu*, Xudong Hong*, **Pin-Jie Lin\***, Ernie Chang, Vera Demberg
-COLING 2022 
-[Paper](https://aclanthology.org/2022.creativesumm-1.9/)
+Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization <br />
+Dongqi Pu\*, Xudong Hong\*, **<ins>Pin-Jie Lin</ins>\***, Ernie Chang, Vera Demberg <br />
+COLING 2022 <br />
+[\[Paper\]](https://aclanthology.org/2022.creativesumm-1.9/)
