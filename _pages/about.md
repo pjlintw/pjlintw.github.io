@@ -37,13 +37,15 @@ My current research interests broadly revolve around efficient NLP, especially:
 
 # 📝 Publication
 
+* indicates equal contributions
+
 **Revisiting Sample Size Determination in Natural Language Understanding** <br />
-Ernie Chang\*, Muhammad Hassan Rashid\*, **<ins>Pin-Jie Lin</ins>\***, Changsheng Zhao, Vera Demberg, Yangyang Shi and Vikas Chandra (\*euqal contribution)<br />
+Ernie Chang\*, Muhammad Hassan Rashid\*, **<ins>Pin-Jie Lin</ins>\***, Changsheng Zhao, Vera Demberg, Yangyang Shi and Vikas Chandra <br />
 ACL 2023 Findings <br />
 [TBA]
 
 **Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization** <br />
-Dongqi Pu\*, Xudong Hong\*, **<ins>Pin-Jie Lin</ins>\***, Ernie Chang, Vera Demberg (\*euqal contribution) <br />
+Dongqi Pu\*, Xudong Hong\*, **<ins>Pin-Jie Lin</ins>\***, Ernie Chang, Vera Demberg <br />
 COLING 2022 <br />
 [\[Paper\]](https://aclanthology.org/2022.creativesumm-1.9/)
 
