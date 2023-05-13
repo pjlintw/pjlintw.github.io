@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Pin-Jie Lin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Saarbrücken, Germanz"
+  bio              : "Hello world! I am Pin-Jie (Linus)"
+  location         : "Saarbrücken, Germany"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=KYeOpSoAAAAJ&hl=en"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/pjlintw"
+  github           : "pjlintw"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-3120-2639"
+  orcid            : # "https://orcid.org/0000-0002-3120-2639"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/linusdd44804"
+  twitter          : "linusdd44804"
   vine             :
   weibo            :
   xing             :
