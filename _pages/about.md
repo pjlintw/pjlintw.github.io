@@ -46,11 +46,13 @@ Email: pinjie@lst.uni-saarland.de
   <div class="col-12 col-lg-2 align-self-center">
     <img class="d-none d-lg-flex img-fluid img-thumbnail" src="images/profile.jpg" alt="Photo">
   </div>
-  <div class="col-12 col-lg-10 align-self-center">  
+  <div class="col-12 col-lg-10 align-self-center">
+    <div class="media-body">
     **Revisiting Sample Size Determination in Natural Language Understanding** <br />
     Ernie Chang\*, Muhammad Hassan Rashid\*, **<ins>Pin-Jie Lin</ins>\***, Changsheng Zhao, Vera Demberg, Yangyang Shi and Vikas Chandra <br />
     ACL 2023 Findings <br />
     [TBA]
+    </div>
   </div>
 </div>
 
