@@ -57,11 +57,11 @@ Email: pinjie@lst.uni-saarland.de
 </div>
 
 
-<div class="row media pub-unit mb-3" id="first">
-  <div class="col-12 col-lg-2 align-self-center">
-    <img class="d-none d-lg-flex img-fluid img-thumbnail" src="images/favicon-32x32.png" alt="Photo">
+<div class="row" id="first">
+  <div class="column">
+    <img class="" src="images/favicon-32x32.png" alt="Photo">
   </div>
-  <div class="col-12 col-lg-10 align-self-center">
+  <div class="column">
     <div class="media-body">
 **Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization**
 Dongqi Pu\*, Xudong Hong\*, **<ins>Pin-Jie Lin</ins>\***, Ernie Chang, Vera Demberg
