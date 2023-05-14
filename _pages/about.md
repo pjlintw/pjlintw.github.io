@@ -44,7 +44,7 @@ Email: pinjie@lst.uni-saarland.de
 
 <div class="row media pub-unit mb-3" id="first">
   <div class="col-12 col-lg-2 align-self-center">
-    <img class="d-none d-lg-flex img-fluid img-thumbnail" src="images/profile.jpg" alt="Photo">
+    <img class="d-none d-lg-flex img-fluid img-thumbnail" src="images/favicon-32x32.png" alt="Photo">
   </div>
   <div class="col-12 col-lg-10 align-self-center">
     <div class="media-body">
@@ -57,10 +57,21 @@ Email: pinjie@lst.uni-saarland.de
 </div>
 
 
-**Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization** <br />
-Dongqi Pu\*, Xudong Hong\*, **<ins>Pin-Jie Lin</ins>\***, Ernie Chang, Vera Demberg <br />
-COLING 2022 <br />
+<div class="row media pub-unit mb-3" id="first">
+  <div class="col-12 col-lg-2 align-self-center">
+    <img class="d-none d-lg-flex img-fluid img-thumbnail" src="images/favicon-32x32.png" alt="Photo">
+  </div>
+  <div class="col-12 col-lg-10 align-self-center">
+    <div class="media-body">
+**Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization**
+Dongqi Pu\*, Xudong Hong\*, **<ins>Pin-Jie Lin</ins>\***, Ernie Chang, Vera Demberg
+COLING 2022
 [\[Paper\]](https://aclanthology.org/2022.creativesumm-1.9/)
+    </div>
+  </div>
+</div>
+
+
 
 **Event Extraction: Convolutional Neural Networks for Extracting Medieval
 Chinese Monk’s Travels**  <br />
