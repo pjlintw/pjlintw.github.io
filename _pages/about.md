@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year master's student at the [Language Science and Technology Department](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University where I work with [Dietriech Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Prior to that, I worked with [Richard Tzong-Han Tsai](https://www.iisr.csie.ncu.edu.tw/faculty) and [Liu Yuan-ju](https://www.litphil.sinica.edu.tw/people/researchers/Liu,%20Yuan-ju) at National Central University and Academia Sinica, Taiwan. 
+I am a second year master's student at the [Language Science and Technology Department (LST)](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University, where I work with [Dietriech Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Prior to that, I worked with [Richard Tzong-Han Tsai](https://www.iisr.csie.ncu.edu.tw/faculty) and [Liu Yuan-ju](https://www.litphil.sinica.edu.tw/people/researchers/Liu,%20Yuan-ju) at National Central University and Academia Sinica, Taiwan. 
 
-My current research interests broadly revolve around efficient NLP, especially:
+My primary research interests broadly revolve around efficient NLP which span a wide range of captivating topics including:
 
-- Parameter-efficient learning
-- Conditional generation for low-resource languages
+- modular representation learning
+- NLP for low-resource languages
 - Semantic space for task information encoding
+
+Email: pinjie@lst.uni-saarland.de
 
 <br />
 
