@@ -41,37 +41,15 @@ Email: pinjie@lst.uni-saarland.de
 
 \* indicates equal contributions
 
+**Revisiting Sample Size Determination in Natural Language Understanding** <br />
+Ernie Chang\*, Muhammad Hassan Rashid\*, **<ins>Pin-Jie Lin</ins>\***, Changsheng Zhao, Vera Demberg, Yangyang Shi and Vikas Chandra <br />
+ACL 2023 Findings <br />
+[TBA] <br />
 
-<div class="row media pub-unit mb-3" id="first">
-  <div class="col-12 col-lg-2 align-self-center">
-    <img class="d-none d-lg-flex img-fluid img-thumbnail" src="images/favicon-32x32.png" alt="Photo">
-  </div>
-  <div class="col-12 col-lg-10 align-self-center">
-    <div class="media-body">
-    **Revisiting Sample Size Determination in Natural Language Understanding** <br />
-    Ernie Chang\*, Muhammad Hassan Rashid\*, **<ins>Pin-Jie Lin</ins>\***, Changsheng Zhao, Vera Demberg, Yangyang Shi and Vikas Chandra <br />
-    ACL 2023 Findings <br />
-    [TBA]
-    </div>
-  </div>
-</div>
-
-
-<div class="row" id="first">
-  <div class="column">
-    <img class="" src="images/favicon-32x32.png" alt="Photo">
-  </div>
-  <div class="column">
-    <div class="media-body">
-**Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization**
-Dongqi Pu\*, Xudong Hong\*, **<ins>Pin-Jie Lin</ins>\***, Ernie Chang, Vera Demberg
-COLING 2022
-[\[Paper\]](https://aclanthology.org/2022.creativesumm-1.9/)
-    </div>
-  </div>
-</div>
-
-
+**Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization** <br />
+Dongqi Pu\*, Xudong Hong\*, **<ins>Pin-Jie Lin</ins>\***, Ernie Chang, Vera Demberg <br />
+COLING 2022 <br />
+[\[Paper\]](https://aclanthology.org/2022.creativesumm-1.9/) <br />
 
 **Event Extraction: Convolutional Neural Networks for Extracting Medieval
 Chinese Monk’s Travels**  <br />
