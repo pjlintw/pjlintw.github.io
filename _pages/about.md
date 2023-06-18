@@ -21,7 +21,7 @@ Email: pinjie@lst.uni-saarland.de
 <br />
 
 # 🔥 News
-- *2023.05*: 🎉🥰 Our new paper "Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin" has been accepted at INTERSPEECH 2023.
+- *2023.05*: 🎉🥰 Our new paper Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin has been accepted at Interspeech 2023.
 - *2023.05*: 🎉🎉 Our new paper has been accepted at ACL 2023 findings. 
 - *2022.10*: 🎉🎉 Our new paper [Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization
 ](https://aclanthology.org/2022.creativesumm-1.9) will be presented at the workshop on Automatic Summarization for Creative Writing at COLING 2022. Our system ranks **1st** in the Script-base track.
@@ -44,7 +44,7 @@ Email: pinjie@lst.uni-saarland.de
 
 **Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin** <br />
 **<ins>Pin-Jie Lin</ins>\***, Muhammed Saeed\*, Ernie Chang\*, Merel Scholman <br /> 
-INTERSPEECH 2023 <br />
+Interspeech 2023 <br />
 [TBA] <br />
 
 
