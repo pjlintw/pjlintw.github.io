@@ -45,13 +45,12 @@ Email: pinjie@lst.uni-saarland.de
 **Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin** <br />
 **<ins>Pin-Jie Lin</ins>\***, Muhammed Saeed\*, Ernie Chang\*, Merel Scholman <br /> 
 Interspeech 2023 <br />
-[TBA] <br />
-
+[\[Paper\]](https://arxiv.org/abs/2307.00382) <br />
 
 **Revisiting Sample Size Determination in Natural Language Understanding** <br />
 Ernie Chang\*, Muhammad Hassan Rashid\*, **<ins>Pin-Jie Lin</ins>\***, Changsheng Zhao, Vera Demberg, Yangyang Shi and Vikas Chandra <br />
 ACL 2023 Findings <br />
-[TBA] <br />
+[\[Paper\]](https://arxiv.org/abs/2307.00374) <br />
 
 **Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization** <br />
 Dongqi Pu\*, Xudong Hong\*, **<ins>Pin-Jie Lin</ins>\***, Ernie Chang, Vera Demberg <br />
