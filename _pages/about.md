@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year master's student at the [Language Science and Technology Department (LST)](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University, where I work with [Dietriech Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Prior to that, I worked with [Richard Tzong-Han Tsai](https://www.iisr.csie.ncu.edu.tw/faculty) and [Liu Yuan-ju](https://www.litphil.sinica.edu.tw/people/researchers/Liu,%20Yuan-ju) at National Central University and Academia Sinica, Taiwan. 
+I am a second year master's student at the [Language Science and Technology Department (LST)](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University, where I work with [Dietriech Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Prior to that, I worked with [Richard Tzong-Han Tsai](https://www.iisr.csie.ncu.edu.tw/faculty) at Intelligent Information Service Research Lab (IISR) and [Liu Yuan-ju](https://www.litphil.sinica.edu.tw/people/researchers/Liu,%20Yuan-ju) at Academia Sinica, Taiwan. 
+
 
 My primary research interests broadly revolve around efficient NLP which span a wide range of captivating topics including:
 
