@@ -19,6 +19,8 @@ My primary research interests broadly revolve around efficient NLP which span a 
 
 Email: pinjie@lst.uni-saarland.de
 
+I am actively seeking opportunities in academia for Fall 2023 or later, whether it be pursuing a PhD program or securing a research position. Please review my [CV](https://drive.google.com/file/d/1qzhvgdUxGIk5rnPHlDaon_YC-CnJ4zXy/view?usp=sharing).
+
 <br />
 
 # 🔥 News
