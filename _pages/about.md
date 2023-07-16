@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year master's student at the [Language Science and Technology Department (LST)](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University, where I work with [Dietriech Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Prior to that, I worked with [Richard Tzong-Han Tsai](https://www.iisr.csie.ncu.edu.tw/faculty) at Intelligent Information Service Research Lab (IISR) and [Liu Yuan-ju](https://www.litphil.sinica.edu.tw/people/researchers/Liu,%20Yuan-ju) at Academia Sinica, Taiwan. 
-
+Hi, I am a second year master's student at the [Language Science and Technology Department (LST)](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University, where I work with [Dietriech Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Prior to that, I worked with [Richard Tzong-Han Tsai](https://www.iisr.csie.ncu.edu.tw/faculty) at Intelligent Information Service Research Lab (IISR) and [Liu Yuan-ju](https://www.litphil.sinica.edu.tw/people/researchers/Liu,%20Yuan-ju) at Academia Sinica, Taiwan. 
 
 My primary research interests broadly revolve around efficient NLP which span a wide range of captivating topics including:
 
@@ -17,7 +16,9 @@ My primary research interests broadly revolve around efficient NLP which span a 
 - NLP for low-resource languages
 - Semantic space for task information encoding
 
-Email: pinjie@lst.uni-saarland.de
+These days, I’m excited about delving into the behavior of LMs—understanding how they learn and process information at different levels. Pertinent sub-questions arise, such as understanding the specific information transmitted through within-tuning phases and cross-tuning phases.
+
+Email: pinjie [at] lst.uni-saarland.de
 
 <span style="color:darkgreen">I am on the lookout for opportunities in academia for Fall 2023 or later, with an interest in pursing a PhD Program or securing a research position. Please take a look at my [CV](https://drive.google.com/file/d/1qzhvgdUxGIk5rnPHlDaon_YC-CnJ4zXy/view?usp=sharing).</span>
 
