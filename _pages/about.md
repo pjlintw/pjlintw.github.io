@@ -20,7 +20,7 @@ These days, I’m excited about delving into the behavior of LMs—understanding
 
 Email: pinjie [at] lst.uni-saarland.de
 
-<span style="color:darkgreen">I am on the lookout for opportunities in academia for Fall 2023 or later, with an interest in pursing a PhD Program or securing a research position. Please take a look at my [CV](https://drive.google.com/file/d/1qzhvgdUxGIk5rnPHlDaon_YC-CnJ4zXy/view?usp=sharing).</span>
+<span style="color:darkgreen">I am on the lookout for opportunities in academia for Fall 2023 or later, with an interest in pursuing a PhD Program or securing a research position. Please take a look at my [CV](https://drive.google.com/file/d/1qzhvgdUxGIk5rnPHlDaon_YC-CnJ4zXy/view?usp=sharing).</span>
 
 <br />
 
