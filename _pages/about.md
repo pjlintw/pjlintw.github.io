@@ -16,7 +16,7 @@ My primary research interests broadly revolve around efficient NLP which span a 
 - NLP for low-resource languages
 - Semantic space for task information encoding
 
-These days, I’m excited about delving into the behavior of LMs—understanding how they learn and process information at different levels. Pertinent sub-questions arise, such as understanding the specific information transmitted through within-tuning phases and cross-tuning phases.
+These days, I’m excited about delving into the behavior of LMs — understanding how they learn and process information at different levels. Pertinent sub-questions arise, such as understanding the specific information transmitted through within-tuning phases and cross-tuning phases. Furthermore, exploring how LMs store information in their knowledge reservoirs and how they can selectively purge or forget knowledge from this reservoir.
 
 Email: pinjie [at] lst.uni-saarland.de
 
