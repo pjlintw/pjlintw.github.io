@@ -25,6 +25,7 @@ Email: pinjie [at] lst.uni-saarland.de
 <br />
 
 # 🔥 News
+- *2023.09*: I have been selected for the 2023B cohort of Google's CS Research Mentorship Program (CSRMP).
 - *2023.05*: 🎉🥰 Our new paper Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin has been accepted at Interspeech 2023.
 - *2023.05*: 🎉🎉 Our new paper has been accepted at ACL 2023 findings. 
 - *2022.10*: 🎉🎉 Our new paper [Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization
