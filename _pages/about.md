@@ -12,15 +12,16 @@ Hi, I am a second year master's student at the [Language Science and Technology 
 
 My primary research interests broadly revolve around efficient NLP which span a wide range of captivating topics including:
 
-- modular representation learning
-- NLP for low-resource languages
+- Efficient transfer learning: [LED for Sumization](https://aclanthology.org/2022.creativesumm-1.9/).
+- NLP for low-resource languages: [Cross-lingual Adaptive Training](https://arxiv.org/abs/2307.00382).
 - Semantic space for task information encoding
+- Application ivolving efficient transfer learning: [In-Context Prompt Editing](https://arxiv.org/abs/2311.00895), [Open Prompt Alignment](https://arxiv.org/abs/2311.00897), [Sample Size Determination](https://aclanthology.org/2023.findings-acl.419/).
 
 These days, I’m excited about delving into the behavior of LMs — understanding how they learn and process information at different levels. Pertinent sub-questions arise, such as understanding the specific information transmitted through within-tuning phases and cross-tuning phases. Furthermore, exploring how LMs store information in their knowledge reservoirs and how they can selectively purge or forget knowledge from this reservoir.
 
 Email: pinjie [at] lst.uni-saarland.de
 
-<span style="color:darkgreen">I am on the lookout for opportunities in academia for Fall 2023 or later, with an interest in pursuing a PhD Program or securing a research position. Please take a look at my [CV](https://drive.google.com/file/d/1CUWS-KrcBOkUMy-wIv5xIfAuyESc8b_e/view?usp=sharing).</span>
+<span style="color:darkgreen">I am on the lookout for opportunities in academia for Fall 2023 or later, with an interest in pursuing a PhD Program or securing a research position. Please take a look at my [CV](https://drive.google.com/file/d/1sibpFkI6KIGVJvma6TQE_NrjQ_ScOeIJ/view?usp=sharing).</span>
 
 <br />
 
