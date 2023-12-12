@@ -25,6 +25,8 @@ Email: pinjie [at] lst.uni-saarland.de
 <br />
 
 # 🔥 News
+- *2023.12*: 😊 paper In-Context Prompt Editing For Conditional Audio Generation has been accepted at ICASSP 2024.
+- *2023.12*: paper On the Open Prompt Challenge in Conditional Audio Generation has been accepted at ICASSP 2024.
 - *2023.09*: I have been selected for the 2023B cohort of Google's CS Research Mentorship Program (CSRMP).
 - *2023.05*: 🎉🥰 Our new paper Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin has been accepted at Interspeech 2023.
 - *2023.05*: 🎉🎉 Our new paper has been accepted at ACL 2023 findings. 
@@ -46,6 +48,15 @@ Email: pinjie [at] lst.uni-saarland.de
 # 📝 <a id="-Publications">Publications</a>
 
 \* indicates equal contributions
+
+ 
+**In-Context Prompt Editing For Conditional Audio Generation** <br />
+Ernie Chang\*, **<ins>Pin-Jie Lin</ins>\***, Yang Li, Sidd Srinivasan, Gael Le Lan, David Kant, Yangyang Shi, Forrest Iandola, Vikas Chandra <br /> 
+ICASSP 2024 <br />
+
+**On the Open Prompt Challenge in Conditional Audio Generation** <br />
+Ernie Chang, Sidd Srinivasan, Mahi Luthra, **<ins>Pin-Jie Lin</ins>**, Varun K. Nagaraja, Forrest Iandola, Zechun Liu, Zhaoheng Ni, Changsheng Zhao, Yangyang Shi, Vikas Chandra <br />
+ICASSP 2024 <br />
 
 **Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin** <br />
 **<ins>Pin-Jie Lin</ins>\***, Muhammed Saeed\*, Ernie Chang\*, Merel Scholman <br /> 
