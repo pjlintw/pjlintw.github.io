@@ -22,7 +22,8 @@ These days, I’m excited about delving into the behavior of LMs — understandi
 
 Email: pinjie [at] lst.uni-saarland.de
 
-<span style="color:darkgreen">I have interest in PhD Program For Fall 2024 and and securing a student research / internship position in Winter 2024. Please take a look at my [CV](https://drive.google.com/file/d/188MU4WOr1RBt9UZM7h_7h8KwzDlYGD7j/view?usp=sharing).</span>
+<span style="color:darkgreen">
+I am interested in enrolling in a Ph.D. program for Fall 2024 and am actively seeking a internship/student research for Winter 2024. I invite you to review my CV for further details. [CV](https://drive.google.com/file/d/188MU4WOr1RBt9UZM7h_7h8KwzDlYGD7j/view?usp=sharing).</span>
 
 <br />
 
