@@ -30,11 +30,13 @@ Email: pinjie [at] lst.uni-saarland.de
 - *2024.02*: I successfully presented my Master thesis.
 - *2024.02*: 1 paper acceted at LREC-COLING 2024.
 - *2024.01*: 1 paper accepted at EACL 2023.
+
 - *2023.12*: 😊 One paper In-Context Prompt Editing For Conditional Audio Generation has been accepted at ICASSP 2024.
 - *2023.12*: One paper On the Open Prompt Challenge in Conditional Audio Generation has been accepted at ICASSP 2024.
 - *2023.09*: I have been selected for the 2023B cohort of Google's CS Research Mentorship Program (CSRMP).
 - *2023.05*: 🎉🥰 Our new paper Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin has been accepted at Interspeech 2023.
 - *2023.05*: 🎉🎉 Our new paper has been accepted at ACL 2023 findings. 
+
 - *2022.10*: 🎉🎉 Our new paper [Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization
 ](https://aclanthology.org/2022.creativesumm-1.9) will be presented at the workshop on Automatic Summarization for Creative Writing at COLING 2022. Our system ranks **1st** in the Script-base track.
 - *2022.04*: I will present our software project for short story recommendations (with Niyati Bafna) at Saarland university. 
@@ -55,16 +57,16 @@ Email: pinjie [at] lst.uni-saarland.de
 \* indicates equal contributions
 
 **Exploring Task Selection for Intermediate-Task Transfer Learning** <br />
- **<ins>Pin-Jie Lin</ins>\*** <br /> 
+ **<ins>Pin-Jie Lin</ins>** <br /> 
 Master's thesis <br />
 [\[Paper\]](https://drive.google.com/file/d/1-5P8GKM2BTDTPQoAfXyS4UzDYeAhAZvy/view?usp=sharing) [\[Slide\]](https://drive.google.com/file/d/1wgnuGcDAEW26xpEhf6tnltXY97zwXi95/view?usp=sharing) <br />
 
 **Modeling Orthographic Variation Improves NLP Performance for Nigerian Pidgin** <br />
-**<ins>Pin-Jie Lin</ins>\***, Muhammed Saeed, Merel Scholman, Vera Demberg <br />
+**<ins>Pin-Jie Lin</ins>**, Merel Scholman, Muhammed Saeed, Vera Demberg <br />
 LREC-COLING 2024 <br />
 
 **Projecting Annotations for Discourse Relations: Connective Identification for Low Resource Languages** <br />
-Peter Bourgonje, **<ins>Pin-Jie Lin</ins>\*** <br />
+Peter Bourgonje, **<ins>Pin-Jie Lin</ins>** <br />
 To Appear at Workshop on Computational Approaches to Discourse at EACL 2024 <br />
 
 **In-Context Prompt Editing For Conditional Audio Generation** <br />
