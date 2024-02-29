@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a second year master's student at the [Language Science and Technology Department (LST)](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University, where I work with [Dietriech Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Prior to that, I worked with [Richard Tzong-Han Tsai](https://www.iisr.csie.ncu.edu.tw/faculty) at Intelligent Information Service Research Lab (IISR) and [Liu Yuan-ju](https://www.litphil.sinica.edu.tw/people/researchers/Liu,%20Yuan-ju) at Academia Sinica, Taiwan. 
+Hi, I am a master's student at the [Language Science and Technology Department (LST)](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University, where I work with [Dietriech Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). 
+
+Prior to that, I worked with [Richard Tzong-Han Tsai](https://www.iisr.csie.ncu.edu.tw/faculty) at Intelligent Information Service Research Lab (IISR) and [Liu Yuan-ju](https://www.litphil.sinica.edu.tw/people/researchers/Liu,%20Yuan-ju) at Academia Sinica, Taiwan. 
 
 My primary research interests broadly revolve around efficient NLP which span a wide range of captivating topics including:
 
@@ -20,7 +22,7 @@ These days, I’m excited about delving into the behavior of LMs — understandi
 
 Email: pinjie [at] lst.uni-saarland.de
 
-<span style="color:darkgreen">I am on the lookout for opportunities in academia for Fall 2023 or later, with an interest in pursuing a PhD Program or securing a research position. Please take a look at my [CV](https://drive.google.com/file/d/1sibpFkI6KIGVJvma6TQE_NrjQ_ScOeIJ/view?usp=sharing).</span>
+<span style="color:darkgreen">I have interest in PhD Program For Fall 2024 and and securing a student research / internship position in Winter 2024. Please take a look at my [CV](https://drive.google.com/file/d/188MU4WOr1RBt9UZM7h_7h8KwzDlYGD7j/view?usp=sharing).</span>
 
 <br />
 
@@ -28,7 +30,6 @@ Email: pinjie [at] lst.uni-saarland.de
 - *2024.02*: I successfully presented my Master thesis.
 - *2024.02*: 1 paper acceted at LREC-COLING 2024.
 - *2024.01*: 1 paper accepted at EACL 2023.
-
 - *2023.12*: 😊 One paper In-Context Prompt Editing For Conditional Audio Generation has been accepted at ICASSP 2024.
 - *2023.12*: One paper On the Open Prompt Challenge in Conditional Audio Generation has been accepted at ICASSP 2024.
 - *2023.09*: I have been selected for the 2023B cohort of Google's CS Research Mentorship Program (CSRMP).
@@ -56,7 +57,7 @@ Email: pinjie [at] lst.uni-saarland.de
 **Exploring Task Selection for Intermediate-Task Transfer Learning** <br />
  **<ins>Pin-Jie Lin</ins>\*** <br /> 
 Master's thesis <br />
-[\[Paper\]](https://drive.google.com/file/d/1-5P8GKM2BTDTPQoAfXyS4UzDYeAhAZvy/view?usp=sharing) [\[Slide\]](https://drive.google.com/file/d/1wgnuGcDAEW26xpEhf6tnltXY97zwXi95/view?usp=sharing) <br /> <br />
+[\[Paper\]](https://drive.google.com/file/d/1-5P8GKM2BTDTPQoAfXyS4UzDYeAhAZvy/view?usp=sharing) [\[Slide\]](https://drive.google.com/file/d/1wgnuGcDAEW26xpEhf6tnltXY97zwXi95/view?usp=sharing) <br />
 
 **Modeling Orthographic Variation Improves NLP Performance for Nigerian Pidgin** <br />
 **<ins>Pin-Jie Lin</ins>\***, Muhammed Saeed, Merel Scholman, Vera Demberg <br />
