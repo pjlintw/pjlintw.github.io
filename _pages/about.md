@@ -28,24 +28,25 @@ I am interested in enrolling in a Ph.D. program for Fall 2024 and am actively se
 <br />
 
 # 🔥 News
-- *2024.02*: I successfully presented my Master thesis.
-- *2024.02*: 1 paper acceted at LREC-COLING 2024.
+- *2024.03*: I will spend time in Taipei in March and April. Feel free to reach out if you’re in the area and would like to meet up! 
+- *2024.02*: I successfully presented my Master thesis *Exploring Task Selection for Intermediate-Task Transfer Learning*.
+- *2024.02*: 1 paper *Modeling Orthographic Variation Improves NLP Performance for Nigerian Pidgin* acceted at LREC-COLING 2024.
 - *2024.01*: 1 paper accepted at EACL 2023.
 
-- *2023.12*: 😊 One paper In-Context Prompt Editing For Conditional Audio Generation has been accepted at ICASSP 2024.
-- *2023.12*: One paper On the Open Prompt Challenge in Conditional Audio Generation has been accepted at ICASSP 2024.
+- *2023.12*: 🎉😊 Our paper *In-Context Prompt Editing For Conditional Audio Generation* has been accepted at ICASSP 2024.
+- *2023.12*: The paper *On the Open Prompt Challenge in Conditional Audio Generation* has been accepted at ICASSP 2024.
 - *2023.09*: I have been selected for the 2023B cohort of Google's CS Research Mentorship Program (CSRMP).
-- *2023.05*: 🎉🥰 Our new paper Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin has been accepted at Interspeech 2023.
+- *2023.05*: 🎉🥰 Our new paper *Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin* has been accepted at Interspeech 2023.
 - *2023.05*: 🎉🎉 Our new paper has been accepted at ACL 2023 findings. 
 
-- *2022.10*: 🎉🎉 Our new paper [Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization
-](https://aclanthology.org/2022.creativesumm-1.9) will be presented at the workshop on Automatic Summarization for Creative Writing at COLING 2022. Our system ranks **1st** in the Script-base track.
+- *2022.10*: 🎉🎉 Our new paper *[Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization
+](https://aclanthology.org/2022.creativesumm-1.9)* will be presented at the workshop on Automatic Summarization for Creative Writing at COLING 2022. Our system ranks **1st** in the Script-base track.
 - *2022.04*: I will present our software project for short story recommendations (with Niyati Bafna) at Saarland university. 
 
 - *2020.10*: I start my journey at Saarland university.
 
 - *2019.12*: Our paper will be presented at conference DADH 2019. 
-- *2019.08*: I will give a talk about Climate Event system based on Historical Meteorological Records at National Central University.
+- *2019.08*: I will give a talk about *Climate Event system based on Historical Meteorological Records* at National Central University.
 - *2019.08*: I gave a tutorial for [Hello, Sequence Labeling](https://docs.google.com/presentation/d/1jdZOhs8woyt4G0nYonhlUoFmsCGW_udfGYcsA3--Axw/edit?usp=sharing) in the Summer Program at National Central University.
 
 - *2018.12*: Our paper will be presented at conference DADH 2018. 
