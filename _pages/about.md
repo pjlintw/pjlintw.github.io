@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I am a master's student at the [Language Science and Technology Department (LST)](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University, where I work with [Dietriech Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). 
 
-Prior to that, I worked with [Richard Tzong-Han Tsai](https://www.iisr.csie.ncu.edu.tw/faculty) at Intelligent Information Service Research Lab (IISR) and [Liu Yuan-ju](https://www.litphil.sinica.edu.tw/people/researchers/Liu,%20Yuan-ju) at Academia Sinica, Taiwan. 
+Prior to that, I worked with [Richard Tzong-Han Tsai](https://scholar.google.com.tw/citations?user=iDz3gJ4AAAAJ&hl=zh-TW) at Intelligent Information Service Research Lab (IISR) and [Liu Yuan-ju](https://www.harvard-yenching.org/person/liu-yuan-ju/) at Academia Sinica, Taiwan. 
 
 My primary research interests broadly revolve around efficient NLP which span a wide range of captivating topics including:
 
@@ -23,7 +23,7 @@ These days, I’m excited about delving into the behavior of LMs — understandi
 Email: pinjie [at] lst.uni-saarland.de
 
 <span style="color:darkgreen">
-I am interested in enrolling in a Ph.D. program for Fall 2024 and am actively seeking a internship/student research for Winter 2024. I invite you to review my CV for further details. [CV](https://drive.google.com/file/d/188MU4WOr1RBt9UZM7h_7h8KwzDlYGD7j/view?usp=sharing).</span>
+I am interested in enrolling in a Ph.D. program for Fall 2024 and am actively seeking a internship/student research for Winter 2024. I invite you to review my CV for further details. [CV](https://drive.google.com/file/d/1tpTR8dkBecSJ95exy8MaPwShwnYzp5LE/view?usp=sharing).</span>
 
 <br />
 
@@ -60,7 +60,7 @@ I am interested in enrolling in a Ph.D. program for Fall 2024 and am actively se
 **Exploring Task Selection for Intermediate-Task Transfer Learning** <br />
  **<ins>Pin-Jie Lin</ins>** <br /> 
 Master's thesis <br />
-[\[Paper\]](https://drive.google.com/file/d/1-5P8GKM2BTDTPQoAfXyS4UzDYeAhAZvy/view?usp=sharing) [\[Slide\]](https://drive.google.com/file/d/1wgnuGcDAEW26xpEhf6tnltXY97zwXi95/view?usp=sharing) <br />
+[\[Paper\]](https://drive.google.com/file/d/1-5P8GKM2BTDTPQoAfXyS4UzDYeAhAZvy/view?usp=sharing) [\[Slide\]](https://drive.google.com/file/d/1hWJdDhLGZk0CN5QP4EZlBY-sOzmHkbmd/view?usp=sharing) <br />
 
 **Modeling Orthographic Variation Improves NLP Performance for Nigerian Pidgin** <br />
 **<ins>Pin-Jie Lin</ins>**, Merel Scholman, Muhammed Saeed, Vera Demberg <br />
@@ -81,7 +81,7 @@ ICASSP 2024 <br />
 **Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin** <br />
 **<ins>Pin-Jie Lin</ins>\***, Muhammed Saeed\*, Ernie Chang\*, Merel Scholman <br /> 
 Interspeech 2023 <br />
-[\[Paper\]](https://arxiv.org/abs/2307.00382) <br />
+[\[Paper\]](https://www.isca-archive.org/interspeech_2023/lin23e_interspeech.html) <br />
 
 **Revisiting Sample Size Determination in Natural Language Understanding** <br />
 Ernie Chang\*, Muhammad Hassan Rashid\*, **<ins>Pin-Jie Lin</ins>\***, Changsheng Zhao, Vera Demberg, Yangyang Shi and Vikas Chandra <br />
