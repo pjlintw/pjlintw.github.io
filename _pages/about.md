@@ -16,7 +16,7 @@ My primary research interests broadly revolve around efficient NLP which span a 
 
 - Efficient transfer learning: [In-Context Prompt Editing](https://arxiv.org/abs/2311.00895), [Open Prompt Alignment](https://arxiv.org/abs/2311.00897), [Sample Size Determination](https://aclanthology.org/2023.findings-acl.419/), [LED](https://aclanthology.org/2022.creativesumm-1.9/).
 - NLP for low-resource languages: [CaT](https://arxiv.org/abs/2307.00382).
-- Semantic space for task information encoding: [IIT](https://drive.google.com/file/d/1cRGYOvBls695iaOWhuV_8bJoIKy1EUMy/view?usp=sharing).
+<!-- - Semantic space for task information encoding: [IIT](https://drive.google.com/file/d/1cRGYOvBls695iaOWhuV_8bJoIKy1EUMy/view?usp=sharing). -->
 
 These days, I’m excited about delving into the behavior of LMs — understanding how they learn and process information at different levels. Pertinent sub-questions arise, such as understanding the specific information transmitted through within-tuning phases and cross-tuning phases. Furthermore, exploring how LMs store information in their knowledge reservoirs and how they can selectively purge or forget knowledge from this reservoir.
 
