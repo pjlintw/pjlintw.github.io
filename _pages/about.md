@@ -95,7 +95,7 @@ COLING 2022 <br />
 
 **Event Extraction: Convolutional Neural Networks for Extracting Medieval
 Chinese Monk’s Travels**  <br />
-**<ins>Pin-Jie Lin</ins>**, Bing-Lin Hsieh  <br />
+**<ins>Pin-Jie Lin</ins>**, Bing-Lin Tsai <br />
 International Conference of Digital Archives and Digital Humanitie 2019 <br />
 
 **Name Recognition of Medieval Chinese
