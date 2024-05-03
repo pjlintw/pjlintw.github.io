@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a master's student at the [Language Science and Technology Department (LST)](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University, where I work with [Dietriech Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). 
+Hi, I am an incoming PhD student at [Virginia Tech](https://cs.vt.edu/) this Fall where I will be advised by [Tu Vu](https://tuvllms.github.io/). 
 
-Prior to that, I worked with [Richard Tzong-Han Tsai](https://scholar.google.com.tw/citations?user=iDz3gJ4AAAAJ&hl=zh-TW) at Intelligent Information Service Research Lab (IISR) and [Liu Yuan-ju](https://www.harvard-yenching.org/person/liu-yuan-ju/) at Academia Sinica, Taiwan. 
+Previously, I received my Master at the [Language Science and Technology Department (LST)](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University, where I worked with [Dietriech Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Prior to that, I contributed to the development of an NLP system for historical archives with [Richard Tzong-Han Tsai](https://scholar.google.com.tw/citations?user=iDz3gJ4AAAAJ&hl=zh-TW) at Intelligent Information Service Research Lab (IISR) and [Liu Yuan-ju](https://www.harvard-yenching.org/person/liu-yuan-ju/) at Academia Sinica, Taiwan. 
 
 My primary research interests broadly revolve around efficient NLP which span a wide range of captivating topics including:
 
@@ -23,7 +23,7 @@ These days, I’m excited about delving into the behavior of LMs — understandi
 Email: pinjie [at] lst.uni-saarland.de
 
 <span style="color:darkgreen">
-I am interested in enrolling in a Ph.D. program for Fall 2024 and am actively seeking a internship/student research for Winter 2024. I invite you to review my CV for further details. [CV](https://drive.google.com/file/d/1tpTR8dkBecSJ95exy8MaPwShwnYzp5LE/view?usp=sharing).</span>
+I am actively seeking a internship/student research for Winter 2024. I invite you to review my CV for further details. [CV](https://drive.google.com/file/d/1tpTR8dkBecSJ95exy8MaPwShwnYzp5LE/view?usp=sharing).</span>
 
 <br />
 
