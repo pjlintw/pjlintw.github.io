@@ -20,7 +20,8 @@ My primary research interests broadly revolve around efficient NLP which span a 
 
 These days, I’m excited about delving into the behavior of LMs — understanding how they learn and process information at different levels. Pertinent sub-questions arise, such as understanding the specific information transmitted through within-tuning phases and cross-tuning phases. Furthermore, exploring how LMs store information in their knowledge reservoirs and how they can selectively purge or forget knowledge from this reservoir.
 
-Email: pinjie [at] lst.uni-saarland.de
+Email: pinjie(at)vt.edu
+
 
 <span style="color:darkgreen">
 I am actively seeking a internship/student research for Winter 2024. I invite you to review my CV for further details. [CV](https://drive.google.com/file/d/1tpTR8dkBecSJ95exy8MaPwShwnYzp5LE/view?usp=sharing).</span>
