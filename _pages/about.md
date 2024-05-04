@@ -24,7 +24,7 @@ Email: pinjie(at)vt.edu
 
 
 <span style="color:darkgreen">
-I am actively seeking a internship/student research for Winter 2024. I invite you to review my CV for further details. [CV](https://drive.google.com/file/d/1tpTR8dkBecSJ95exy8MaPwShwnYzp5LE/view?usp=sharing).</span>
+I am actively seeking a internship/student research for Winter 2024. I invite you to review my CV for further details. [CV](https://drive.google.com/file/d/1OHTYGY6oKKbaG0BDucPI__Ij4LYmRm4y/view?usp=sharing).</span>
 
 <br />
 
