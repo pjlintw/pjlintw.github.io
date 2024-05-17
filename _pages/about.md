@@ -16,6 +16,7 @@ My primary research interests broadly revolve around efficient NLP which span a 
 
 - Efficient transfer learning: [In-Context Prompt Editing](https://arxiv.org/abs/2311.00895), [Open Prompt Alignment](https://arxiv.org/abs/2311.00897), [Sample Size Determination](https://aclanthology.org/2023.findings-acl.419/), [LED](https://aclanthology.org/2022.creativesumm-1.9/).
 - NLP for low-resource languages: [CaT](https://arxiv.org/abs/2307.00382).
+
 <!-- - Semantic space for task information encoding: [IIT](https://drive.google.com/file/d/1cRGYOvBls695iaOWhuV_8bJoIKy1EUMy/view?usp=sharing). -->
 
 <!-- These days, I’m excited about delving into the behavior of LMs — understanding how they learn and process information at different levels. Pertinent sub- questions arise, such as understanding the specific information transmitted through within-tuning phases and cross-tuning phases. Furthermore, exploring how LMs store information in their knowledge reservoirs and how they can selectively purge or forget knowledge from this reservoir.
@@ -59,20 +60,24 @@ Email: pinjie(at)vt.edu
 # 📝 <a id="-Publications">Publications</a>
 
 \* indicates equal contributions
+
 <!--
 **Exploring Task Selection for Intermediate-Task Transfer Learning** <br />
  **<ins>Pin-Jie Lin</ins>** <br /> 
 Master's thesis <br />
 [\[Paper\]](https://drive.google.com/file/d/1-5P8GKM2BTDTPQoAfXyS4UzDYeAhAZvy/view?usp=sharing) [\[Slide\]](https://drive.google.com/file/d/1hWJdDhLGZk0CN5QP4EZlBY-sOzmHkbmd/view?usp=sharing) <br />
 -->
+
 **Modeling Orthographic Variation Improves NLP Performance for Nigerian Pidgin** <br />
 **<ins>Pin-Jie Lin</ins>**, Merel Scholman, Muhammed Saeed, Vera Demberg <br />
 LREC-COLING 2024 <br />
+
 <!--
 **Projecting Annotations for Discourse Relations: Connective Identification for Low Resource Languages** <br />
 Peter Bourgonje, **<ins>Pin-Jie Lin</ins>** <br />
 To Appear at Workshop on Computational Approaches to Discourse at EACL 2024 <br />
 -->
+
 **In-Context Prompt Editing For Conditional Audio Generation** <br />
 Ernie Chang\*, **<ins>Pin-Jie Lin</ins>\***, Yang Li, Sidd Srinivasan, Gael Le Lan, David Kant, Yangyang Shi, Forrest Iandola, Vikas Chandra <br /> 
 ICASSP 2024 <br />
