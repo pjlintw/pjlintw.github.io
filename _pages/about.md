@@ -28,7 +28,7 @@ Email: pinjie(at)vt.edu
 <!-- I am actively seeking a internship/student research for Winter 2024. I invite you to review my CV for further details. [CV](https://drive.google.com/file/d/1OHTYGY6oKKbaG0BDucPI__Ij4LYmRm4y/view?usp=sharing).</span> -->
 
 <br />
-
+<!--
 # 🔥 News
 - *2024.03*: I will spend time in Taipei in March and April. Feel free to reach out if you’re in the area and would like to meet up! 
 - *2024.02*: I successfully presented my Master thesis *Exploring Task Selection for Intermediate-Task Transfer Learning*.
@@ -55,6 +55,7 @@ Email: pinjie(at)vt.edu
 - *2018.07*: I gave a invited talk about Python programming on Digital Humanities Workshop at National Taiwan University.
 
 <br />
+-->
 
 # 📝 <a id="-Publications">Publications</a>
 
