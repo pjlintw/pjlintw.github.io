@@ -28,6 +28,7 @@ Email: pinjie(at)vt.edu
 <!-- I am actively seeking a internship/student research for Winter 2024. I invite you to review my CV for further details. [CV](https://drive.google.com/file/d/1OHTYGY6oKKbaG0BDucPI__Ij4LYmRm4y/view?usp=sharing).</span> -->
 
 <br />
+
 <!--
 # 🔥 News
 - *2024.03*: I will spend time in Taipei in March and April. Feel free to reach out if you’re in the area and would like to meet up! 
@@ -53,9 +54,8 @@ Email: pinjie(at)vt.edu
 
 - *2018.12*: Our paper will be presented at conference DADH 2018. 
 - *2018.07*: I gave a invited talk about Python programming on Digital Humanities Workshop at National Taiwan University.
-
-<br />
 -->
+<br /> 
 
 # 📝 <a id="-Publications">Publications</a>
 
