@@ -8,25 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a master's student at the [Language Science and Technology Department (LST)](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University, where I work with [Dietriech Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). 
+Hi, I am an incoming PhD student at [Virginia Tech](https://cs.vt.edu/) this Fall where I will be advised by [Tu Vu](https://tuvllms.github.io/). 
 
-Prior to that, I worked with [Richard Tzong-Han Tsai](https://scholar.google.com.tw/citations?user=iDz3gJ4AAAAJ&hl=zh-TW) at Intelligent Information Service Research Lab (IISR) and [Liu Yuan-ju](https://www.harvard-yenching.org/person/liu-yuan-ju/) at Academia Sinica, Taiwan. 
+Previously, I received my Master at the [Language Science and Technology Department (LST)](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University, where I worked with [Dietriech Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Prior to that, I contributed to the development of an NLP system for historical archives with [Richard Tzong-Han Tsai](https://scholar.google.com.tw/citations?user=iDz3gJ4AAAAJ&hl=zh-TW) at Intelligent Information Service Research Lab (IISR) and [Liu Yuan-ju](https://www.harvard-yenching.org/person/liu-yuan-ju/) at Academia Sinica, Taiwan. 
 
 My primary research interests broadly revolve around efficient NLP which span a wide range of captivating topics including:
 
 - Efficient transfer learning: [In-Context Prompt Editing](https://arxiv.org/abs/2311.00895), [Open Prompt Alignment](https://arxiv.org/abs/2311.00897), [Sample Size Determination](https://aclanthology.org/2023.findings-acl.419/), [LED](https://aclanthology.org/2022.creativesumm-1.9/).
 - NLP for low-resource languages: [CaT](https://arxiv.org/abs/2307.00382).
+
 <!-- - Semantic space for task information encoding: [IIT](https://drive.google.com/file/d/1cRGYOvBls695iaOWhuV_8bJoIKy1EUMy/view?usp=sharing). -->
 
-These days, I’m excited about delving into the behavior of LMs — understanding how they learn and process information at different levels. Pertinent sub-questions arise, such as understanding the specific information transmitted through within-tuning phases and cross-tuning phases. Furthermore, exploring how LMs store information in their knowledge reservoirs and how they can selectively purge or forget knowledge from this reservoir.
+<!-- These days, I’m excited about delving into the behavior of LMs — understanding how they learn and process information at different levels. Pertinent sub- questions arise, such as understanding the specific information transmitted through within-tuning phases and cross-tuning phases. Furthermore, exploring how LMs store information in their knowledge reservoirs and how they can selectively purge or forget knowledge from this reservoir.
+-->
 
-Email: pinjie [at] lst.uni-saarland.de
+Email: pinjie(at)vt.edu
 
-<span style="color:darkgreen">
-I am interested in enrolling in a Ph.D. program for Fall 2024 and am actively seeking a internship/student research for Winter 2024. I invite you to review my CV for further details. [CV](https://drive.google.com/file/d/1tpTR8dkBecSJ95exy8MaPwShwnYzp5LE/view?usp=sharing).</span>
+<!-- <span style="color:darkgreen"> -->
+<!-- I am actively seeking a internship/student research for Winter 2024. I invite you to review my CV for further details. [CV](https://drive.google.com/file/d/1OHTYGY6oKKbaG0BDucPI__Ij4LYmRm4y/view?usp=sharing).</span> -->
 
-<br />
+<!-- <br /> -->
 
+<!--
 # 🔥 News
 - *2024.03*: I will spend time in Taipei in March and April. Feel free to reach out if you’re in the area and would like to meet up! 
 - *2024.02*: I successfully presented my Master thesis *Exploring Task Selection for Intermediate-Task Transfer Learning*.
@@ -51,33 +54,38 @@ I am interested in enrolling in a Ph.D. program for Fall 2024 and am actively se
 
 - *2018.12*: Our paper will be presented at conference DADH 2018. 
 - *2018.07*: I gave a invited talk about Python programming on Digital Humanities Workshop at National Taiwan University.
-
-<br />
+-->
+<br /> 
 
 # 📝 <a id="-Publications">Publications</a>
 
 \* indicates equal contributions
 
+<!--
 **Exploring Task Selection for Intermediate-Task Transfer Learning** <br />
  **<ins>Pin-Jie Lin</ins>** <br /> 
 Master's thesis <br />
 [\[Paper\]](https://drive.google.com/file/d/1-5P8GKM2BTDTPQoAfXyS4UzDYeAhAZvy/view?usp=sharing) [\[Slide\]](https://drive.google.com/file/d/1hWJdDhLGZk0CN5QP4EZlBY-sOzmHkbmd/view?usp=sharing) <br />
+-->
 
 **Modeling Orthographic Variation Improves NLP Performance for Nigerian Pidgin** <br />
 **<ins>Pin-Jie Lin</ins>**, Merel Scholman, Muhammed Saeed, Vera Demberg <br />
 LREC-COLING 2024 <br />
 
+<!--
 **Projecting Annotations for Discourse Relations: Connective Identification for Low Resource Languages** <br />
 Peter Bourgonje, **<ins>Pin-Jie Lin</ins>** <br />
 To Appear at Workshop on Computational Approaches to Discourse at EACL 2024 <br />
+-->
 
 **In-Context Prompt Editing For Conditional Audio Generation** <br />
 Ernie Chang\*, **<ins>Pin-Jie Lin</ins>\***, Yang Li, Sidd Srinivasan, Gael Le Lan, David Kant, Yangyang Shi, Forrest Iandola, Vikas Chandra <br /> 
 ICASSP 2024 <br />
-
+<!--
 **On the Open Prompt Challenge in Conditional Audio Generation** <br />
 Ernie Chang, Sidd Srinivasan, Mahi Luthra, **<ins>Pin-Jie Lin</ins>**, Varun K. Nagaraja, Forrest Iandola, Zechun Liu, Zhaoheng Ni, Changsheng Zhao, Yangyang Shi, Vikas Chandra <br />
 ICASSP 2024 <br />
+-->
 
 **Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin** <br />
 **<ins>Pin-Jie Lin</ins>\***, Muhammed Saeed\*, Ernie Chang\*, Merel Scholman <br /> 
@@ -94,14 +102,15 @@ Dongqi Pu\*, Xudong Hong\*, **<ins>Pin-Jie Lin</ins>\***, Ernie Chang, Vera Demb
 COLING 2022 <br />
 [\[Paper\]](https://aclanthology.org/2022.creativesumm-1.9/) <br />
 
+<!--
 **Event Extraction: Convolutional Neural Networks for Extracting Medieval
 Chinese Monk’s Travels**  <br />
 **<ins>Pin-Jie Lin</ins>**, Bing-Lin Tsai <br />
-International Conference of Digital Archives and Digital Humanitie 2019 <br />
+International Conference of Digital Archives and Digital Humanities 2019 <br />
 
 **Name Recognition of Medieval Chinese
 Monk Names** <br />
 Severina Balabanova, **<ins>Pin-Jie Lin</ins>**, Ya-Lin Chen, Wan-Chun Chiu <br />
 International Conference of Digital Archives and Digital Humanities 2018 <br />
-
+ -->
 
