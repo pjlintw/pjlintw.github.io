@@ -1,116 +1,263 @@
 ---
-permalink: /
-title: ""
-excerpt: "About me"
+permalink: /markdown/
+title: "Markdown"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /md/
+  - /markdown.html
 ---
 
-Hi, I am an incoming PhD student at [Virginia Tech](https://cs.vt.edu/) this Fall where I will be advised by [Tu Vu](https://tuvllms.github.io/). 
+## Locations of key files/directories
 
-Previously, I received my Master at the [Language Science and Technology Department (LST)](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University, where I worked with [Dietriech Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Prior to that, I contributed to the development of an NLP system for historical archives with [Richard Tzong-Han Tsai](https://scholar.google.com.tw/citations?user=iDz3gJ4AAAAJ&hl=zh-TW) at Intelligent Information Service Research Lab (IISR) and [Liu Yuan-ju](https://www.harvard-yenching.org/person/liu-yuan-ju/) at Academia Sinica, Taiwan. 
+* Basic config options: _config.yml
+* Top navigation bar config: _data/navigation.yml
+* Single pages: _pages/
+* Collections of pages are .md or .html files in:
+  * _publications/
+  * _portfolio/
+  * _posts/
+  * _teaching/
+  * _talks/
+* Footer: _includes/footer.html
+* Static files (like PDFs): /files/
+* Profile image (can set in _config.yml): images/profile.png
 
-My primary research interests broadly revolve around efficient NLP which span a wide range of captivating topics including:
+## Tips and hints
 
-- Efficient transfer learning: [In-Context Prompt Editing](https://arxiv.org/abs/2311.00895), [Open Prompt Alignment](https://arxiv.org/abs/2311.00897), [Sample Size Determination](https://aclanthology.org/2023.findings-acl.419/), [LED](https://aclanthology.org/2022.creativesumm-1.9/).
-- NLP for low-resource languages: [CaT](https://arxiv.org/abs/2307.00382).
+* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
+* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
+  * Green check: successful build
+  * Orange circle: building
+  * Red X: error
+  * No icon: not built
 
-<!-- - Semantic space for task information encoding: [IIT](https://drive.google.com/file/d/1cRGYOvBls695iaOWhuV_8bJoIKy1EUMy/view?usp=sharing). -->
+## Resources
+ * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+ * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
 
-<!-- These days, I’m excited about delving into the behavior of LMs — understanding how they learn and process information at different levels. Pertinent sub- questions arise, such as understanding the specific information transmitted through within-tuning phases and cross-tuning phases. Furthermore, exploring how LMs store information in their knowledge reservoirs and how they can selectively purge or forget knowledge from this reservoir.
--->
+## MathJax 
 
-Email: pinjie(at)vt.edu
+Support for MathJax Version 3.0 is included in the template:
 
-<!-- <span style="color:darkgreen"> -->
-<!-- I am actively seeking a internship/student research for Winter 2024. I invite you to review my CV for further details. [CV](https://drive.google.com/file/d/1OHTYGY6oKKbaG0BDucPI__Ij4LYmRm4y/view?usp=sharing).</span> -->
+$$
+\displaylines{
+\nabla \cdot E= \frac{\rho}{\epsilon_0} \\\
+\nabla \cdot B=0 \\\
+\nabla \times E= -\partial_tB \\\
+\nabla \times B  = \mu_0 \left(J + \varepsilon_0 \partial_t E \right)
+}
+$$
 
-<!-- <br /> -->
+The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^2 + b^2 = c^2\\))
 
-<!--
-# 🔥 News
-- *2024.03*: I will spend time in Taipei in March and April. Feel free to reach out if you’re in the area and would like to meet up! 
-- *2024.02*: I successfully presented my Master thesis *Exploring Task Selection for Intermediate-Task Transfer Learning*.
-- *2024.02*: 1 paper *Modeling Orthographic Variation Improves NLP Performance for Nigerian Pidgin* acceted at LREC-COLING 2024.
-- *2024.01*: 1 paper accepted at EACL 2023.
+**Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772).
 
-- *2023.12*: 🎉😊 Our paper *In-Context Prompt Editing For Conditional Audio Generation* has been accepted at ICASSP 2024.
-- *2023.12*: The paper *On the Open Prompt Challenge in Conditional Audio Generation* has been accepted at ICASSP 2024.
-- *2023.09*: I have been selected for the 2023B cohort of Google's CS Research Mentorship Program (CSRMP).
-- *2023.05*: 🎉🥰 Our new paper *Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin* has been accepted at Interspeech 2023.
-- *2023.05*: 🎉🎉 Our new paper has been accepted at ACL 2023 findings. 
+## Markdown guide
 
-- *2022.10*: 🎉🎉 Our new paper *[Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization
-](https://aclanthology.org/2022.creativesumm-1.9)* will be presented at the workshop on Automatic Summarization for Creative Writing at COLING 2022. Our system ranks **1st** in the Script-base track.
-- *2022.04*: I will present our software project for short story recommendations (with Niyati Bafna) at Saarland university. 
+Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.  
 
-- *2020.10*: I start my journey at Saarland university.
+### Header three
 
-- *2019.12*: Our paper will be presented at conference DADH 2019. 
-- *2019.08*: I will give a talk about *Climate Event system based on Historical Meteorological Records* at National Central University.
-- *2019.08*: I gave a tutorial for [Hello, Sequence Labeling](https://docs.google.com/presentation/d/1jdZOhs8woyt4G0nYonhlUoFmsCGW_udfGYcsA3--Axw/edit?usp=sharing) in the Summer Program at National Central University.
+#### Header four
 
-- *2018.12*: Our paper will be presented at conference DADH 2018. 
-- *2018.07*: I gave a invited talk about Python programming on Digital Humanities Workshop at National Taiwan University.
--->
-<br /> 
+##### Header five
 
-# 📝 <a id="-Publications">Publications</a>
+###### Header six
 
-\* indicates equal contributions
+## Blockquotes
 
-<!--
-**Exploring Task Selection for Intermediate-Task Transfer Learning** <br />
- **<ins>Pin-Jie Lin</ins>** <br /> 
-Master's thesis <br />
-[\[Paper\]](https://drive.google.com/file/d/1-5P8GKM2BTDTPQoAfXyS4UzDYeAhAZvy/view?usp=sharing) [\[Slide\]](https://drive.google.com/file/d/1hWJdDhLGZk0CN5QP4EZlBY-sOzmHkbmd/view?usp=sharing) <br />
--->
+Single line blockquote:
 
-**Modeling Orthographic Variation Improves NLP Performance for Nigerian Pidgin** <br />
-**<ins>Pin-Jie Lin</ins>**, Merel Scholman, Muhammed Saeed, Vera Demberg <br />
-LREC-COLING 2024 <br />
+> Quotes are cool.
 
-<!--
-**Projecting Annotations for Discourse Relations: Connective Identification for Low Resource Languages** <br />
-Peter Bourgonje, **<ins>Pin-Jie Lin</ins>** <br />
-To Appear at Workshop on Computational Approaches to Discourse at EACL 2024 <br />
--->
+## Tables
 
-**In-Context Prompt Editing For Conditional Audio Generation** <br />
-Ernie Chang\*, **<ins>Pin-Jie Lin</ins>\***, Yang Li, Sidd Srinivasan, Gael Le Lan, David Kant, Yangyang Shi, Forrest Iandola, Vikas Chandra <br /> 
-ICASSP 2024 <br />
-<!--
-**On the Open Prompt Challenge in Conditional Audio Generation** <br />
-Ernie Chang, Sidd Srinivasan, Mahi Luthra, **<ins>Pin-Jie Lin</ins>**, Varun K. Nagaraja, Forrest Iandola, Zechun Liu, Zhaoheng Ni, Changsheng Zhao, Yangyang Shi, Vikas Chandra <br />
-ICASSP 2024 <br />
--->
+### Table 1
 
-**Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin** <br />
-**<ins>Pin-Jie Lin</ins>\***, Muhammed Saeed\*, Ernie Chang\*, Merel Scholman <br /> 
-Interspeech 2023 <br />
-[\[Paper\]](https://www.isca-archive.org/interspeech_2023/lin23e_interspeech.html) <br />
+| Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [John Doe](#)    | 2016   | Description of the item in the list                          |
+| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
-**Revisiting Sample Size Determination in Natural Language Understanding** <br />
-Ernie Chang\*, Muhammad Hassan Rashid\*, **<ins>Pin-Jie Lin</ins>\***, Changsheng Zhao, Vera Demberg, Yangyang Shi and Vikas Chandra <br />
-ACL 2023 Findings <br />
-[\[Paper\]](https://arxiv.org/abs/2307.00374) <br />
+### Table 2
 
-**Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization** <br />
-Dongqi Pu\*, Xudong Hong\*, **<ins>Pin-Jie Lin</ins>\***, Ernie Chang, Vera Demberg <br />
-COLING 2022 <br />
-[\[Paper\]](https://aclanthology.org/2022.creativesumm-1.9/) <br />
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | ce
+ll5   | cell6   |
+|-----------------------------|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=============================|
+| Foot1   | Foot2   | Foot3   |
 
-<!--
-**Event Extraction: Convolutional Neural Networks for Extracting Medieval
-Chinese Monk’s Travels**  <br />
-**<ins>Pin-Jie Lin</ins>**, Bing-Lin Tsai <br />
-International Conference of Digital Archives and Digital Humanities 2019 <br />
+## Definition Lists
 
-**Name Recognition of Medieval Chinese
-Monk Names** <br />
-Severina Balabanova, **<ins>Pin-Jie Lin</ins>**, Ya-Lin Chen, Wan-Chun Chiu <br />
-International Conference of Digital Archives and Digital Humanities 2018 <br />
- -->
+Definition List Title
+:   Definition list division.
 
+Startup
+:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+
+#dowork
+:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+
+Do It Live
+:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+
+## Unordered Lists (Nested)
+
+  * List item one 
+      * List item one 
+          * List item one
+          * List item two
+          * List item three
+          * List item four
+      * List item two
+      * List item three
+      * List item four
+  * List item two
+  * List item three
+  * List item four
+
+## Ordered List (Nested)
+
+  1. List item one 
+      1. List item one 
+          1. List item one
+          2. List item two
+          3. List item three
+          4. List item four
+      2. List item two
+      3. List item three
+      4. List item four
+  2. List item two
+  3. List item three
+  4. List item four
+
+## Buttons
+
+Make any link standout more when applying the `.btn` class.
+
+## Notices
+
+Basic notices or call-outs are supported using the following syntax:
+
+```markdown
+**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
+{: .notice}
+```
+
+which wil render as:
+
+**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
+{: .notice}
+
+### Footnotes
+
+Footnotes can be useful for clarifying points in the text, or citing information.[^1] Markdown support numeric footnotes, as well as text as long as the values are unique.[^note]
+
+```markdown
+This is the regular text.[^1] This is more regular text.[^note]
+
+[^1]: This is the footnote itself.
+[^note]: This is another footnote.
+```
+
+[^1]: Such as this footnote.
+[^note]: When using text for footnotes markers, no spaces are permitted in the name.
+
+## HTML Tags
+
+### Address Tag
+
+<address>
+  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
+</address>
+
+### Anchor Tag (aka. Link)
+
+This is an example of a [link](http://github.com "Github").
+
+### Abbreviation Tag
+
+The abbreviation CSS stands for "Cascading Style Sheets".
+
+*[CSS]: Cascading Style Sheets
+
+### Cite Tag
+
+"Code is poetry." ---<cite>Automattic</cite>
+
+### Code Tag
+
+You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
+
+You can also write larger blocks of code with syntax highlighting supported for some languages, such as Python:
+
+```python
+print('Hello World!')
+```
+
+or R:
+
+```R
+print("Hello World!", quote = FALSE)
+```
+
+### Strike Tag
+
+This tag will let you <strike>strikeout text</strike>.
+
+### Emphasize Tag
+
+The emphasize tag should _italicize_ text.
+
+### Insert Tag
+
+This tag should denote <ins>inserted</ins> text.
+
+### Keyboard Tag
+
+This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
+
+### Preformatted Tag
+
+This tag styles large blocks of code.
+
+<pre>
+.post-title {
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 1.2;
+  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+}
+</pre>
+
+### Quote Tag
+
+<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
+
+### Strong Tag
+
+This tag shows **bold text**.
+
+### Subscript Tag
+
+Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
+
+### Superscript Tag
+
+Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
+
+### Variable Tag
+
+This allows you to denote <var>variables</var>.
+
+***
+**Footnotes**
+
+The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
