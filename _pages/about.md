@@ -73,11 +73,11 @@ Master's thesis <br />
 LREC-COLING 2024 <br />
 [\[Paper\]](https://aclanthology.org/2024.lrec-main.1006/) <br />
 
-<!--
-**Projecting Annotations for Discourse Relations: Connective Identification for Low Resource Languages** <br />
+
+<!-- **Projecting Annotations for Discourse Relations: Connective Identification for Low Resource Languages** <br />
 Peter Bourgonje, **<ins>Pin-Jie Lin</ins>** <br />
 To Appear at Workshop on Computational Approaches to Discourse at EACL 2024 <br />
--->
+ -->
 
 **In-Context Prompt Editing For Conditional Audio Generation** <br />
 Ernie Chang\*, **<ins>Pin-Jie Lin</ins>\***, Yang Li, Sidd Srinivasan, Gael Le Lan, David Kant, Yangyang Shi, Forrest Iandola, Vikas Chandra <br /> 
