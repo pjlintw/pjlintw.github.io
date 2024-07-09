@@ -74,15 +74,16 @@ LREC-COLING 2024 <br />
 [\[Paper\]](https://aclanthology.org/2024.lrec-main.1006/) <br />
 
 
-<!-- **Projecting Annotations for Discourse Relations: Connective Identification for Low Resource Languages** <br />
+**Projecting Annotations for Discourse Relations: Connective Identification for Low Resource Languages** <br />
 Peter Bourgonje, **<ins>Pin-Jie Lin</ins>** <br />
-To Appear at Workshop on Computational Approaches to Discourse at EACL 2024 <br />
- -->
+Workshop on Computational Approaches to Discourse at EACL 2024 <br />
+[\[Paper\]](https://aclanthology.org/2024.codi-1.4/) <br />
+ 
 
 **In-Context Prompt Editing For Conditional Audio Generation** <br />
 Ernie Chang\*, **<ins>Pin-Jie Lin</ins>\***, Yang Li, Sidd Srinivasan, Gael Le Lan, David Kant, Yangyang Shi, Forrest Iandola, Vikas Chandra <br /> 
 ICASSP 2024 <br />
-[\[Paper\]](https://arxiv.org/abs/2311.00895) <br />
+[\[Paper\]](https://ieeexplore.ieee.org/document/10446431) <br />
 
 <!--
 **On the Open Prompt Challenge in Conditional Audio Generation** <br />
@@ -98,7 +99,7 @@ Interspeech 2023 <br />
 **Revisiting Sample Size Determination in Natural Language Understanding** <br />
 Ernie Chang\*, Muhammad Hassan Rashid\*, **<ins>Pin-Jie Lin</ins>\***, Changsheng Zhao, Vera Demberg, Yangyang Shi and Vikas Chandra <br />
 ACL 2023 Findings <br />
-[\[Paper\]](https://arxiv.org/abs/2307.00374) <br />
+[\[Paper\]](https://aclanthology.org/2023.findings-acl.419/) <br />
 
 **Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization** <br />
 Dongqi Pu\*, Xudong Hong\*, **<ins>Pin-Jie Lin</ins>\***, Ernie Chang, Vera Demberg <br />
