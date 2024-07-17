@@ -29,14 +29,16 @@ Email: pinjie(at)vt.edu
 
 <!-- <br /> -->
 
-<!--
+
 # 🔥 News
+
+- *2024.07*: 1 paper *Exploring the Effectiveness and Consistency of Task Selection in Intermediate-Task Transfer Learning: A Systematic Study* got accepted to ACL 2024 Student Research Workshop!
 - *2024.03*: I will spend time in Taipei in March and April. Feel free to reach out if you’re in the area and would like to meet up! 
 - *2024.02*: I successfully presented my Master thesis *Exploring Task Selection for Intermediate-Task Transfer Learning*.
 - *2024.02*: 1 paper *Modeling Orthographic Variation Improves NLP Performance for Nigerian Pidgin* acceted at LREC-COLING 2024.
-- *2024.01*: 1 paper accepted at EACL 2023.
+- *2024.01*: 1 paper *Projecting Annotations for Discourse Relations: Connective Identification for Low Resource Languages* accepted to the Workshop on Computational Approaches to Discourse at EACL 2023.
 
-- *2023.12*: 🎉😊 Our paper *In-Context Prompt Editing For Conditional Audio Generation* has been accepted at ICASSP 2024.
+<!-- - *2023.12*: 🎉😊 Our paper *In-Context Prompt Editing For Conditional Audio Generation* has been accepted at ICASSP 2024.
 - *2023.12*: The paper *On the Open Prompt Challenge in Conditional Audio Generation* has been accepted at ICASSP 2024.
 - *2023.09*: I have been selected for the 2023B cohort of Google's CS Research Mentorship Program (CSRMP).
 - *2023.05*: 🎉🥰 Our new paper *Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin* has been accepted at Interspeech 2023.
@@ -53,8 +55,8 @@ Email: pinjie(at)vt.edu
 - *2019.08*: I gave a tutorial for [Hello, Sequence Labeling](https://docs.google.com/presentation/d/1jdZOhs8woyt4G0nYonhlUoFmsCGW_udfGYcsA3--Axw/edit?usp=sharing) in the Summer Program at National Central University.
 
 - *2018.12*: Our paper will be presented at conference DADH 2018. 
-- *2018.07*: I gave a invited talk about Python programming on Digital Humanities Workshop at National Taiwan University.
--->
+- *2018.07*: I gave a invited talk about Python programming on Digital Humanities Workshop at National Taiwan University. -->
+
 <br /> 
 
 # 📝 <a id="-Publications">Publications</a>
@@ -67,6 +69,10 @@ Email: pinjie(at)vt.edu
 Master's thesis <br />
 [\[Paper\]](https://drive.google.com/file/d/1-5P8GKM2BTDTPQoAfXyS4UzDYeAhAZvy/view?usp=sharing) [\[Slide\]](https://drive.google.com/file/d/1hWJdDhLGZk0CN5QP4EZlBY-sOzmHkbmd/view?usp=sharing) <br />
 -->
+
+**Exploring the Effectiveness and Consistency of Task Selection in Intermediate-Task Transfer Learning: A Systematic Study** <br />
+**<ins>Pin-Jie Lin</ins>**, Miaoran Zhang, Marius Mosbach, Dietrich Klakow<br />
+Student Research Workshop at ACL 2024 <br />
 
 **Modeling Orthographic Variation Improves NLP Performance for Nigerian Pidgin** <br />
 **<ins>Pin-Jie Lin</ins>**, Merel Scholman, Muhammed Saeed, Vera Demberg <br />
@@ -85,11 +91,11 @@ Ernie Chang\*, **<ins>Pin-Jie Lin</ins>\***, Yang Li, Sidd Srinivasan, Gael Le L
 ICASSP 2024 <br />
 [\[Paper\]](https://ieeexplore.ieee.org/document/10446431) <br />
 
-<!--
+
 **On the Open Prompt Challenge in Conditional Audio Generation** <br />
 Ernie Chang, Sidd Srinivasan, Mahi Luthra, **<ins>Pin-Jie Lin</ins>**, Varun K. Nagaraja, Forrest Iandola, Zechun Liu, Zhaoheng Ni, Changsheng Zhao, Yangyang Shi, Vikas Chandra <br />
 ICASSP 2024 <br />
--->
+
 
 **Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin** <br />
 **<ins>Pin-Jie Lin</ins>\***, Muhammed Saeed\*, Ernie Chang\*, Merel Scholman <br /> 
