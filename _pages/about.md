@@ -33,9 +33,8 @@ Email: pinjie(at)vt.edu
 
 # 🔥 News
 
-- *2024.09*: 1 paper got accepted to EMNLP 2024.
+- *2024.09*: 1 paper *Target-Aware Language Modeling via Granular Data Sampling* got accepted to EMNLP 2024.
 - *2024.08*: I started my PhD study at Virginia Tech.
->>>>>>> 65c5ad7 (first commit from tony-2)
 - *2024.07*: 1 paper *Exploring the Effectiveness and Consistency of Task Selection in Intermediate-Task Transfer Learning: A Systematic Study* got accepted to ACL 2024 Student Research Workshop!
 - *2024.03*: I will spend time in Taipei in March and April. Feel free to reach out if you’re in the area and would like to meet up! 
 - *2024.02*: I successfully presented my Master thesis *Exploring Task Selection for Intermediate-Task Transfer Learning*.
