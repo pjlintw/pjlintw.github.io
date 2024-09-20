@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student, advised by [Tu Vu](https://tuvllms.github.io/) at [Virginia Tech](https://cs.vt.edu/). My research aims to develop efficient artificial intelligent (AI) models for communal and collaborative generalization. How can we teach AI model a suite of skills efficiently? Specifically, I have worked on improving model adaptation, measuring the effects of data and prompts, and generating synthetic data to address data scarcity. I am now exploring representative skill combinations.
+I am a first-year PhD student, advised by [Tu Vu](https://tuvllms.github.io/) at [Virginia Tech](https://cs.vt.edu/). My research aims to develop efficient artificial intelligent (AI) models for communal and collaborative generalization. How can we teach AI model a suite of skills efficiently? Specifically, I have worked on improving model adaptation, measuring the effects of data and prompts, and addressing data scarcity through synthetic data. I am now exploring representative skill combinations.
 
 My research interests broadly revolve around efficient NLP which span a wide range of captivating topics including:
 
@@ -76,7 +76,7 @@ Master's thesis <br />
 **Exploring the Effectiveness and Consistency of Task Selection in Intermediate-Task Transfer Learning** <br />
 **<ins>Pin-Jie Lin</ins>**, Miaoran Zhang, Marius Mosbach, Dietrich Klakow<br />
 Student Research Workshop at ACL 2024 <br />
-[\[Paper\]](https://aclanthology.org/2024.acl-srw.24/) <br />
+[\[Paper\]](https://aclanthology.org/2024.acl-srw.24/) [\[Code\]](https://github.com/uds-lsv/intermediate-task-selection/) <br />
 
 **Modeling Orthographic Variation Improves NLP Performance for Nigerian Pidgin** <br />
 **<ins>Pin-Jie Lin</ins>**, Merel Scholman, Muhammed Saeed, Vera Demberg <br />
