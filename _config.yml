@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Saarbrücken, Germany"
+locale                   : "Blacksburg, Virginia"
 title                    : "Linus Pin-Jie Lin"
 title_separator          : ""
 name                     : &name "林品傑 りん ひんけつ Линь Пиньцзе 임품걸"
-description              : &description "M.s. student at Saarland University"
+description              : &description "PhD student at Virginia Tech"
 url                      : https://pjlintw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/pjlintw"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=KYeOpSoAAAAJ&hl=en"
-  email            : "pjlintw@gmail.com"
+  email            : "pinjie@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

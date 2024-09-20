@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am an incoming PhD student at [Virginia Tech](https://cs.vt.edu/) this Fall where I will be advised by [Tu Vu](https://tuvllms.github.io/). 
+I am a first-year PhD student, advised by [Tu Vu](https://tuvllms.github.io/) at [Virginia Tech](https://cs.vt.edu/). My research aims to develop efficient artificial intelligent (AI) models for communal and collaborative generalization. How can we teach AI model a suite of skills efficiently? Specifically, I have worked on improving model adaptation, measuring the effects of data and prompts, and generating synthetic data to address data scarcity. I am now exploring representative skill combinations.
 
-Previously, I received my Master's at the [Language Science and Technology Department (LST)](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University, where I worked with [Dietrich Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Prior to that, I contributed to the development of NLP system for historical archives with [Richard Tzong-Han Tsai](https://scholar.google.com.tw/citations?user=iDz3gJ4AAAAJ&hl=zh-TW) at Intelligent Information Service Research Lab (IISR) and [Liu Yuan-ju](https://www.harvard-yenching.org/person/liu-yuan-ju/) at Academia Sinica, Taiwan. 
-
-My primary research interests broadly revolve around efficient NLP which span a wide range of captivating topics including:
+My research interests broadly revolve around efficient NLP which span a wide range of captivating topics including:
 
 - Efficient transfer learning: [In-Context Prompt Editing](https://arxiv.org/abs/2311.00895), [Open Prompt Alignment](https://arxiv.org/abs/2311.00897), [Sample Size Determination](https://aclanthology.org/2023.findings-acl.419/), [LED](https://aclanthology.org/2022.creativesumm-1.9/).
 - NLP for low-resource languages: [CaT](https://arxiv.org/abs/2307.00382).
+
+Previously, I received my Master's at the [Language Science and Technology Department (LST)](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University, where I worked with [Dietrich Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Prior to that, I contributed to the development of NLP system for historical archives with [Richard Tzong-Han Tsai](https://scholar.google.com.tw/citations?user=iDz3gJ4AAAAJ&hl=zh-TW) at Intelligent Information Service Research Lab (IISR) and [Liu Yuan-ju](https://www.harvard-yenching.org/person/liu-yuan-ju/) at Academia Sinica, Taiwan. 
+
 
 <!-- - Semantic space for task information encoding: [IIT](https://drive.google.com/file/d/1cRGYOvBls695iaOWhuV_8bJoIKy1EUMy/view?usp=sharing). -->
 
@@ -32,6 +33,9 @@ Email: pinjie(at)vt.edu
 
 # 🔥 News
 
+- *2024.09*: 1 paper got accepted to EMNLP 2024.
+- *2024.08*: I started my PhD study at Virginia Tech.
+>>>>>>> 65c5ad7 (first commit from tony-2)
 - *2024.07*: 1 paper *Exploring the Effectiveness and Consistency of Task Selection in Intermediate-Task Transfer Learning: A Systematic Study* got accepted to ACL 2024 Student Research Workshop!
 - *2024.03*: I will spend time in Taipei in March and April. Feel free to reach out if you’re in the area and would like to meet up! 
 - *2024.02*: I successfully presented my Master thesis *Exploring Task Selection for Intermediate-Task Transfer Learning*.
@@ -70,9 +74,11 @@ Master's thesis <br />
 [\[Paper\]](https://drive.google.com/file/d/1-5P8GKM2BTDTPQoAfXyS4UzDYeAhAZvy/view?usp=sharing) [\[Slide\]](https://drive.google.com/file/d/1hWJdDhLGZk0CN5QP4EZlBY-sOzmHkbmd/view?usp=sharing) <br />
 -->
 
-**Exploring the Effectiveness and Consistency of Task Selection in Intermediate-Task Transfer Learning: A Systematic Study** <br />
+
+**Exploring the Effectiveness and Consistency of Task Selection in Intermediate-Task Transfer Learning** <br />
 **<ins>Pin-Jie Lin</ins>**, Miaoran Zhang, Marius Mosbach, Dietrich Klakow<br />
 Student Research Workshop at ACL 2024 <br />
+[\[Paper\]](https://aclanthology.org/2024.acl-srw.24/) <br />
 
 **Modeling Orthographic Variation Improves NLP Performance for Nigerian Pidgin** <br />
 **<ins>Pin-Jie Lin</ins>**, Merel Scholman, Muhammed Saeed, Vera Demberg <br />
@@ -84,18 +90,16 @@ LREC-COLING 2024 <br />
 Peter Bourgonje, **<ins>Pin-Jie Lin</ins>** <br />
 Workshop on Computational Approaches to Discourse at EACL 2024 <br />
 [\[Paper\]](https://aclanthology.org/2024.codi-1.4/) <br />
- 
+
 
 **In-Context Prompt Editing For Conditional Audio Generation** <br />
 Ernie Chang\*, **<ins>Pin-Jie Lin</ins>\***, Yang Li, Sidd Srinivasan, Gael Le Lan, David Kant, Yangyang Shi, Forrest Iandola, Vikas Chandra <br /> 
 ICASSP 2024 <br />
 [\[Paper\]](https://ieeexplore.ieee.org/document/10446431) <br />
 
-
-**On the Open Prompt Challenge in Conditional Audio Generation** <br />
+<!-- **On the Open Prompt Challenge in Conditional Audio Generation** <br />
 Ernie Chang, Sidd Srinivasan, Mahi Luthra, **<ins>Pin-Jie Lin</ins>**, Varun K. Nagaraja, Forrest Iandola, Zechun Liu, Zhaoheng Ni, Changsheng Zhao, Yangyang Shi, Vikas Chandra <br />
-ICASSP 2024 <br />
-
+ICASSP 2024 <br /> -->
 
 **Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin** <br />
 **<ins>Pin-Jie Lin</ins>\***, Muhammed Saeed\*, Ernie Chang\*, Merel Scholman <br /> 
