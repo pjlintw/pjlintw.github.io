@@ -87,14 +87,8 @@ Student Research Workshop at ACL 2024 <br />
 // We revist the task -->
 
 **Target-Aware Language Modeling via Granular Data Sampling** <br />
-Ernie Chang, **<ins>Pin-Jie Lin</ins>**, Yang Li, Changsheng Zhao, Daeil Kim, Rastislav Rabtin, Zechun Liu, Yangyang Shi,, Vikas Chandra <br /> 
+Ernie Chang, **<ins>Pin-Jie Lin</ins>**, Yang Li, Changsheng Zhao, Daeil Kim, Rastislav Rabtin, Zechun Liu, Yangyang Shi, Vikas Chandra <br /> 
 EMNLP 2024 <br />
-
-**Exploring the Effectiveness and Consistency of Task Selection in Intermediate-Task Transfer Learning** <br />
-**<ins>Pin-Jie Lin</ins>**, Miaoran Zhang, Marius Mosbach, Dietrich Klakow<br />
-Student Research Workshop at ACL 2024 <br />
-[\[Paper\]](https://aclanthology.org/2024.acl-srw.24/) [\[Code\]](https://github.com/uds-lsv/intermediate-task-selection/) <br />
-
 
 **Exploring the Effectiveness and Consistency of Task Selection in Intermediate-Task Transfer Learning** <br />
 **<ins>Pin-Jie Lin</ins>**, Miaoran Zhang, Marius Mosbach, Dietrich Klakow<br />
