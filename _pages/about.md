@@ -89,6 +89,8 @@ Student Research Workshop at ACL 2024 <br />
 **Target-Aware Language Modeling via Granular Data Sampling** <br />
 Ernie Chang, **<ins>Pin-Jie Lin</ins>**, Yang Li, Changsheng Zhao, Daeil Kim, Rastislav Rabtin, Zechun Liu, Yangyang Shi, Vikas Chandra <br /> 
 EMNLP 2024 <br />
+[\[Paper\]](https://arxiv.org/abs/2409.14705) <br />
+
 
 **Exploring the Effectiveness and Consistency of Task Selection in Intermediate-Task Transfer Learning** <br />
 **<ins>Pin-Jie Lin</ins>**, Miaoran Zhang, Marius Mosbach, Dietrich Klakow<br />
@@ -100,6 +102,7 @@ Student Research Workshop at ACL 2024 <br />
 **<ins>Pin-Jie Lin</ins>**, Merel Scholman, Muhammed Saeed, Vera Demberg <br />
 LREC-COLING 2024 <br />
 [\[Paper\]](https://aclanthology.org/2024.lrec-main.1006/) <br />
+
 
 
 <!-- **Projecting Annotations for Discourse Relations: Connective Identification for Low Resource Languages** <br />
