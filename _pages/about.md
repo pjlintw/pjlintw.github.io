@@ -38,6 +38,7 @@ Email: pinjie(at)vt.edu
 
 # 🔥 News
 
+- *2024.10*: 1 paper got accepted to EMNLP 2024 Industry Track.
 - *2024.09*: 1 paper *Target-Aware Language Modeling via Granular Data Sampling* got accepted to EMNLP 2024.
 - *2024.08*: I started my PhD study at Virginia Tech.
 - *2024.07*: 1 paper *Exploring the Effectiveness and Consistency of Task Selection in Intermediate-Task Transfer Learning: A Systematic Study* got accepted to ACL 2024 Student Research Workshop!
