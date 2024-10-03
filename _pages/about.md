@@ -10,17 +10,23 @@ redirect_from:
 
 <!-- I am a first-year PhD student, advised by [Tu Vu](https://tuvllms.github.io/) at [Virginia Tech](https://cs.vt.edu/). My research aims to develop efficient artificial intelligent (AI) models for communal and collaborative generalization. How can we teach AI model a suite of skills efficiently? Specifically, I have worked on improving model adaptation, measuring the effects of data and prompts, and addressing data scarcity through synthetic data. I am now exploring representative skill combinations. -->
 
-I'm a CS Ph.D. student at the Large Language Models (LLMs) Lab at [Virginia Tech](https://cs.vt.edu/). My research aims to develop efficient artificial intelligence (AI) models for communal and collaborative generalization, with a focus on facilitating the development of machine learning models more efficiently and effectively. My work explores sample-efficient methods to learn a unified model that combines multiple skills—such as safety, math, coding, and multilingual capabilities.
+I'm a CS Ph.D. student at [Virginia Tech](https://cs.vt.edu/)'s Large Language Models (LLMs) Lab. My research focuses on **collaborative and communal machine learning**, aiming to efficiently and effectively develop an all-rounded LLMs. I explore methods that blend a diverse set of skills, including safety, tool use, coding, multilingual and instruction-following capabilities. These methods encompass model merging, modular composition, and model adaptation.
+
 
 I'm advised by [Tu Vu](https://tuvllms.github.io/). Previously, I received the Master's at the [Language Science and Technology Department (LST)](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University, where I worked with [Dietrich Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Prior to that, I contributed to the development of NLP system for historical archives with [Richard Tsai](https://scholar.google.com.tw/citations?user=iDz3gJ4AAAAJ&hl=zh-TW) and [Liu Yuan-ju](https://www.harvard-yenching.org/person/liu-yuan-ju/) at [Academia Sinica](https://www.sinica.edu.tw/en). I obtained my Bachelor’s in History.
 
 
 ### Research
 
-My research interests broadly revolve around efficient NLP which span a wide range of captivating topics including:
+My research broadly revolve around efficient NLP which span a wide range of captivating topics including:
 
-- Efficient transfer learning: [In-Context Prompt Editing](https://arxiv.org/abs/2311.00895), [Open Prompt Alignment](https://arxiv.org/abs/2311.00897), [Sample Size Determination](https://aclanthology.org/2023.findings-acl.419/), [LED](https://aclanthology.org/2022.creativesumm-1.9/).
-- NLP for low-resource languages: [CaT](https://arxiv.org/abs/2307.00382).
+- Efficient transfer learning: transferring knowledge across tasks, and modalities
+([Intermediate-task Transfer Learning](https://aclanthology.org/2024.acl-srw.24/), [In-Context Prompt Editing](https://arxiv.org/abs/2311.00895)).
+
+
+- NLP for low-resource languages: enhancing NLP models' capacity for underrepresented languages ([CaT](https://arxiv.org/abs/2307.00382)).
+
+- Sample selection: optimizing LLMs' performance through effective data mixtures ([Target-aware Language Modeling](https://arxiv.org/abs/2409.14705/), [Sample Size Determination](https://aclanthology.org/2023.findings-acl.419/)).
 
 
 <!-- - Semantic space for task information encoding: [IIT](https://drive.google.com/file/d/1cRGYOvBls695iaOWhuV_8bJoIKy1EUMy/view?usp=sharing). -->
@@ -74,19 +80,6 @@ Email: pinjie(at)vt.edu
 Please see [Google Scholar](https://scholar.google.com/citations?user=KYeOpSoAAAAJ&hl=en&authuser=1) for an up-to-date publication list.
 
 \* indicates equal contributions
-
-<!--
-**Exploring Task Selection for Intermediate-Task Transfer Learning** <br />
- **<ins>Pin-Jie Lin</ins>** <br /> 
-Master's thesis <br />
-[\[Paper\]](https://drive.google.com/file/d/1-5P8GKM2BTDTPQoAfXyS4UzDYeAhAZvy/view?usp=sharing) [\[Slide\]](https://drive.google.com/file/d/1hWJdDhLGZk0CN5QP4EZlBY-sOzmHkbmd/view?usp=sharing) <br />
--->
-
-<!-- **Target-Aware Language Modeling via Granular Data Sampling** <br />
-**<ins>Pin-Jie Lin</ins>**, Miaoran Zhang, Marius Mosbach, Dietrich Klakow<br />
-Student Research Workshop at ACL 2024 <br />
-[\[Paper\]](https://aclanthology.org/2024.acl-srw.24/) [\[Code\]](https://github.com/uds-lsv/intermediate-task-selection/) <br />
-// We revist the task -->
 
 
 <a href="https://arxiv.org/abs/2409.14705" style="color:teal;">**Target-Aware Language Modeling via Granular Data Sampling**</a> <br />
