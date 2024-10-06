@@ -171,7 +171,7 @@ ICASSP 2024 <br /> -->
 <br />
 
 <div style="display: flex; align-items: center;">
-    <img src="imgs/sum-img-1.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
+    <img src="images/imgs/sum-img-1.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
     <div>
         <a href="https://aclanthology.org/2022.creativesumm-1.9/" style="color:teal;"><strong>Two-Stage Movie Script Summarization: An Efficient Method For Low-Resource Long Document Summarization</strong></a> <br />
         Dongqi Pu*, Xudong Hong*, <strong><ins>Pin-Jie Lin</ins>*</strong>, Ernie Chang, Vera Demberg <br />
