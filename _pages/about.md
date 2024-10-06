@@ -93,7 +93,7 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=KYeOpSoAAA
 
 
 <div style="display: flex; align-items: center;">
-    <img src="imgs/sampling-img-5.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
+    <img src="images/imgs/sampling-img-5.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
     <div>
         <a href="https://arxiv.org/abs/2409.14705" style="color:teal;"><strong>Target-Aware Language Modeling via Granular Data Sampling</strong></a> <br />
         Ernie Chang, <strong><ins>Pin-Jie Lin</ins></strong>, Yang Li, Changsheng Zhao, Daeil Kim, Rastislav Rabtin, Zechun Liu, Yangyang Shi, Vikas Chandra <br />
@@ -104,7 +104,7 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=KYeOpSoAAA
 <br />
 
 <div style="display: flex; align-items: center;">
-    <img src="imgs/task-emb-img-1.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
+    <img src="images/imgs/task-emb-img-1.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
     <div>
         <a href="https://aclanthology.org/2024.acl-srw.24/" style="color:teal;"><strong>Exploring the Effectiveness and Consistency of Task Selection in Intermediate-Task Transfer Learning</strong></a> <br />
         <strong><ins>Pin-Jie Lin</ins></strong>, Miaoran Zhang, Marius Mosbach, Dietrich Klakow <br />
@@ -115,7 +115,7 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=KYeOpSoAAA
 <br />
 
 <div style="display: flex; align-items: center;">
-    <img src="imgs/ov-img-4.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
+    <img src="images/imgs/ov-img-4.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
     <div>
         <a href="https://aclanthology.org/2024.lrec-main.1006/" style="color:teal;"><strong>Modeling Orthographic Variation Improves NLP Performance for Nigerian Pidgin</strong></a> <br />
         <strong><ins>Pin-Jie Lin</ins></strong>, Merel Scholman, Muhammed Saeed, Vera Demberg <br />
@@ -126,7 +126,7 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=KYeOpSoAAA
 <br />
 
 <div style="display: flex; align-items: center;">
-    <img src="imgs/in-context-img-1.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
+    <img src="images/imgs/in-context-img-1.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
     <div>
         <a href="https://ieeexplore.ieee.org/document/10446431" style="color:teal;"><strong>In-Context Prompt Editing For Conditional Audio Generation</strong></a> <br />
         Ernie Chang*, <strong><ins>Pin-Jie Lin</ins>*</strong>, Yang Li, Sidd Srinivasan, Gael Le Lan, David Kant, Yangyang Shi, Forrest Iandola, Vikas Chandra <br />
@@ -145,7 +145,7 @@ ICASSP 2024 <br /> -->
 
 
 <div style="display: flex; align-items: center;">
-    <img src="imgs/cat-img-3.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
+    <img src="images/imgs/cat-img-3.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
     <div>
         <a href="https://www.isca-archive.org/interspeech_2023/lin23e_interspeech.html" style="color:teal;"><strong>Low-Resource Cross-Lingual Adaptive Training for Nigerian Pidgin</strong></a> <br />
         <strong><ins>Pin-Jie Lin</ins>*</strong>, Muhammed Saeed*, Ernie Chang*, Merel Scholman <br />
@@ -158,7 +158,7 @@ ICASSP 2024 <br /> -->
 
 
 <div style="display: flex; align-items: center;">
-    <img src="imgs/sample-size-img-1.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
+    <img src="images/imgs/sample-size-img-1.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
     <div>
         <a href="https://aclanthology.org/2023.findings-acl.419/" style="color:teal;"><strong>Revisiting Sample Size Determination in Natural Language Understanding</strong></a> <br />
         Ernie Chang*, Muhammad Hassan Rashid*, <strong><ins>Pin-Jie Lin</ins>*</strong>, Changsheng Zhao, Vera Demberg, Yangyang Shi and Vikas Chandra <br />
