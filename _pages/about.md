@@ -93,7 +93,7 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=KYeOpSoAAA
 
 
 <div style="display: flex; align-items: center;">
-    <img src="imgs/sampling-img-5.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
+    <img src="images/imgs/sampling-img-5.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
     <div>
         <a href="https://arxiv.org/abs/2409.14705" style="color:teal;"><strong>Target-Aware Language Modeling via Granular Data Sampling</strong></a> <br />
         Ernie Chang, <strong><ins>Pin-Jie Lin</ins></strong>, Yang Li, Changsheng Zhao, Daeil Kim, Rastislav Rabtin, Zechun Liu, Yangyang Shi, Vikas Chandra <br />
