@@ -18,11 +18,11 @@ main:
   - title: "CV"
     url: /CV/
   
-  - title: "CV2"
-    url: [Wikipedia](https://www.wikipedia.org/)
-
-  - title: "CV3"
-    url: <a href="https://www.wikipedia.org/">Wikipedia</a>
-
+  - title: "My"
+    url: "https://www.google.com/"
+  
+  - title: "My"
+    url: https://www.google.com/
+  
   # - title: "Guide"
   #   url: /markdown/
