@@ -16,10 +16,16 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: https://google.com/
+    url: /CV/
   
   - title: "CV2"
-    url: https://google.com/
+    url: [Wikipedia](https://www.wikipedia.org/)
+
+  - title: "CV3"
+    url: <a href="https://www.wikipedia.org/">Wikipedia</a>
+
+  - title: ["CV3"](https://www.wikipedia.org/)
+    url: /CV/
     
   # - title: "Guide"
   #   url: /markdown/
