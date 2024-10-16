@@ -24,8 +24,5 @@ main:
   - title: "CV3"
     url: <a href="https://www.wikipedia.org/">Wikipedia</a>
 
-  - title: ["CV3"](https://www.wikipedia.org/)
-    url: /CV/
-    
   # - title: "Guide"
   #   url: /markdown/
