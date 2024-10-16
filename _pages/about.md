@@ -35,7 +35,6 @@ My research broadly revolve around efficient NLP which span a wide range of capt
 
 Email: pinjie(at)vt.edu
 
-
 <a id="-CV"></a><span style="color:darkgreen">I am actively seeking a internship for 2025. I invite you to review my CV for further details. [CV](https://drive.google.com/file/d/1qhD1lRWB4kiCf-rv9bksmtgpL365Truw/view?usp=sharing).</span>
 
 
