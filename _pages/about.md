@@ -12,7 +12,6 @@ redirect_from:
 
 I'm a CS Ph.D. student at [Virginia Tech](https://cs.vt.edu/)'s Large Language Models (LLMs) Lab, advised by [Tu Vu](https://tuvllms.github.io/). My research focuses on **collaborative and communal machine learning**, aiming to efficiently and effectively develop an all-rounded LLMs. I explore methods that blend a diverse set of skills, including safety, tool use, coding, multilingual and instruction-following capabilities. These methods encompass model merging, modular composition, and model adaptation.
 
-
 Previously, I received the Master's at the [Language Science and Technology Department (LST)](https://www.uni-saarland.de/en/department/lst/research.html) of Saarland University, where I worked with [Dietrich Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Prior to that, I contributed to the development of NLP system for historical archives with [Richard Tsai](https://scholar.google.com.tw/citations?user=iDz3gJ4AAAAJ&hl=zh-TW) and [Liu Yuan-ju](https://www.harvard-yenching.org/person/liu-yuan-ju/) at [Academia Sinica](https://www.sinica.edu.tw/en). I obtained my Bachelor’s in History.
 
 
@@ -36,10 +35,8 @@ My research broadly revolve around efficient NLP which span a wide range of capt
 
 Email: pinjie(at)vt.edu
 
-<!-- <span style="color:darkgreen"> -->
-<!-- I am actively seeking a internship/student research for Winter 2024. I invite you to review my CV for further details. [CV](https://drive.google.com/file/d/1OHTYGY6oKKbaG0BDucPI__Ij4LYmRm4y/view?usp=sharing).</span> -->
-
-<!-- <br /> -->
+<span style="color:darkgreen">
+<a id="-CV">I am actively seeking a internship for 2025. I invite you to review my CV for further details. [CV](https://drive.google.com/file/d/1qhD1lRWB4kiCf-rv9bksmtgpL365Truw/view?usp=sharing).</span></a>
 
 
 # 🔥 News
