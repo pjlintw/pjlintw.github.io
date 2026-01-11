@@ -8,21 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Ph.D. student in Computer Science at [Virginia Tech](https://cs.vt.edu/), advised by [Tu Vu](https://tuvllms.github.io/). I received my Master’s in Language Science and Technology from Saarland University, where I worked on efficient transfer learning and low-resource NLP with [Dietrich Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Earlier, I contributed to NLP research on historical archives at Academia Sinica, and I was selected as a Google CSRMP Fellow in 2023.
-
-My research focuses on developing efficient, modular LLMs for multilingual, multitask, and multimodal deployments. I approach this through the lens of **collaborative and communal machine learning**. Specifically, I work on:
+I’m a Ph.D. student in Computer Science at [Virginia Tech](https://cs.vt.edu/), advised by [Tu Vu](https://tuvllms.github.io/). My research focuses on developing efficient and modular LLMs for multilingual, multitask, and multimodal deployments. I am motivated by collaborative model development, where AI systems improve through shared and iterative contributions rather than isolated, low-reusability efforts. In particular, I develop efficient post-training methods that enhance alignment-induced capabilities via weight merging, while reducing the need for repetitive and resource-intensive training. Specifically, I work on:
 
 - **Efficient model development:** Developing methods to make alignment updates faster, cheaper, and more reusable, enabling continual adaptation across evolving model architectures.
+
 - **Parameter-efficient transfer learning:** Modularizing task and document knowledge into reusable components for scalable transfer.
-- **Advanced reasoning:** Building reasoning-capable multi-LLM systems and modular agents for complex, multilingual, and multimodal tasks.
-- **Instruction tuning:** Enhancing LLM instruction-following capabilities to improve reasoning accuracy and factual responses.
+
+- **Interactive scaling and verification**: Scaling reasoning and factuality through interaction with verifiable environments.
+
+- **Advanced reasoning:** Building reasoning-capable LLM/agent systems for complex, multilingual, and multimodal tasks.
+
 - **Data-centric methods:** Designing data selection strategies to improve performance and efficiency in low-resource scenarios.
 
-<a id="-CV"></a><span style="color:darkgreen">Seeking a 2025 internship position. My [CV](https://drive.google.com/file/d/1282VIxw5V9owstakqEqyKAIYqPvzcdyX/view?usp=sharing) is available here.</span>
+Previously, I interned at Amazon AGI, working on distributed model distillation. Before my Ph.D., I received my Master’s in Language Science and Technology from Saarland University, where I worked on efficient transfer learning and low-resource NLP with [Dietrich Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Earlier, I contributed to NLP research on historical archives at Academia Sinica, and I was selected as a Google CSRMP Fellow in 2023.
+
+<a id="-CV"></a><span style="color:darkgreen">Seeking a 2026 internship position. My [CV](https://drive.google.com/file/d/1rxKh6PpPv2iOuf9sI6IccFB8K-CwqhUL/view?usp=sharing) is available here.</span>
 
 
 # 🔥 News
 
+- *2025.08*: One paper accepted as an oral presentation at EMNLP 2025.
 - *2024.10*: One paper accepted to EMNLP 2024 Industry Track.
 - *2024.09*: Paper *Target-Aware Language Modeling via Granular Data Sampling* accepted to EMNLP 2024.
 - *2024.08*: Started my Ph.D. at Virginia Tech.
@@ -52,6 +57,17 @@ Please see [Google Scholar](https://scholar.google.com/citations?user=KYeOpSoAAA
     }
 </style>
 
+<div style="display: flex; align-items: center;">
+    <img src="images/imgs/emd-img-1.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
+    <div>
+        <a href="https://arxiv.org/abs/2503.20110" style="color:teal;"><strong>Efficient Model Development through Fine-tuning Transfer</strong></a> <br />
+        <strong><ins>Pin-Jie Lin</ins></strong>, Rishab Balasubramanian, Fengyuan Liu, Nikhil Kandpal, Tu Vu <br />
+        EMNLP 2025 (Oral, top 10%) <br />
+        <a href="https://arxiv.org/abs/2503.20110" style="color:gray; text-decoration:none;">[Paper]</a> <a href="https://github.com/pjlintw/finetuning-transfer" style="color:gray; text-decoration:none;">[Code]</a><br />
+        <span style="color:purple">Transferring alignment-induced capabilities (e.g., SFT+RL) across LLMs without post-training.</span>
+    </div>
+</div>
+<br />
 
 <div style="display: flex; align-items: center;">
     <img src="images/imgs/sampling-img-5.jpg" alt="Description" style="width: {{ site.img_width }}; height: auto; margin-right: 20px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);">
