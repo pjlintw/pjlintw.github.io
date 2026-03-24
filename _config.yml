@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "Blacksburg, Virginia"
-title                    : "Linus Pin-Jie Lin"
+title                    : "Pin-Jie Lin"
 title_separator          : ""
 name                     : &name "林品傑 りん ひんけつ Линь Пиньцзе 임품걸"
-description              : &description "PhD student at Virginia Tech"
+description              : &description "PhD student at Virginia Tech — efficient LLM post-training, alignment transfer, reasoning & agents, multilingual/multimodal NLP."
 url                      : https://pjlintw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/pjlintw"
