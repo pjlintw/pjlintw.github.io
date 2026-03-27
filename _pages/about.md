@@ -8,22 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Ph.D. student in Computer Science at [Virginia Tech](https://cs.vt.edu/), advised by [Tu Vu](https://tuvllms.github.io/). I work on **efficient post-training and model development**: transferring **alignment-induced** behaviors (e.g., SFT and RL) across models via **weight merging**, to avoid repetitive, resource-heavy training. Broader interests include **reasoning-oriented LLM and agent systems**, **verification-grounded interaction**, and **data-efficient** scaling for **multilingual** and **multimodal** settings. I aim to build modular, reusable systems where capabilities accumulate over time instead of being isolated in one-off training runs.
+I'm a Ph.D. student in Computer Science at [Virginia Tech](https://cs.vt.edu/), advised by [Tu Vu](https://tuvllms.github.io/).  My research interests focus on transferring alignment-induced behaviors (SFT, RL) across models. My goal is to build modular, reusable systems where capabilities accumulate over time instead of being isolated in one-off training runs.
 
+- **Efficient model development:** Developing methods for faster, cheaper, and more reusable alignment updates, enabling continual adaptation across models.
 
-- **Efficient model development:** Developing methods for faster, cheaper, and more reusable alignment updates, enabling continual adaptation across evolving model architectures.
+- **Continually evolving agents**: Building LLM agents that accumulate skills and raw experience for solving long-horizon tasks.
 
 - **Parameter-efficient transfer learning:** Modular task and document knowledge for scalable transfer.
 
-- **Interactive scaling and verification:** Improving reasoning and factuality through interaction with verifiable environments.
-
-- **Advanced reasoning:** Reasoning-capable LLM and agent setups for complex multilingual and multimodal tasks.
-
 - **Data-centric methods:** Data selection and sampling strategies for stronger performance under limited compute or data.
 
-Previously, I interned at **Amazon AGI** on **distributed model distillation**. Before my Ph.D., I received my Master’s in Language Science and Technology from Saarland University, working on efficient transfer learning and low-resource NLP with [Dietrich Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). Earlier, I contributed to NLP research on historical archives at Academia Sinica, and I was selected as a Google CSRMP Fellow in 2023.
+Before starting my Ph.D., I completed my Master's at Saarland University where I worked on efficient transfer learning and low-resource NLP with [Dietrich Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). I was selected as a Google CSRMP Fellow in 2023, and most recently interned at Amazon AGI on distributed model distillation in 2025.
 
-<a id="-CV"></a><span style="color:darkgreen">Seeking a <strong>Research Internship</strong> (Summer 2026). Interests: LLM post-training, agents, RL, deep reasoning, and efficiency. My [CV](https://drive.google.com/file/d/1rxKh6PpPv2iOuf9sI6IccFB8K-CwqhUL/view?usp=sharing) is here.</span>
+<a id="-CV"></a><span style="color:darkgreen">Seeking a <strong>Research Internship</strong> (Summer 2026). Interests: LLM post-training, agents, RL, deep reasoning, and efficiency. My [CV](https://drive.google.com/file/d/1Y0d5ZqbLzsxDWYBkMjS9o6LxLoFVMpA3/view?usp=sharing) is here.</span>
 
 
 # 🔥 News
