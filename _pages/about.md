@@ -18,7 +18,7 @@ I'm a Ph.D. student in Computer Science at [Virginia Tech](https://cs.vt.edu/), 
 
 - **Data-centric methods:** Data selection and sampling strategies for stronger performance under limited compute or data.
 
-- **Model harnessing** Designing systems that effectively orchestrate LLM agents with tools, memory, and feedback to improve system reasoning.
+- **Model harnessing:** Designing systems that effectively orchestrate LLM agents with tools, memory, and feedback to improve system reasoning.
 
 Before starting my Ph.D., I completed my Master's at Saarland University where I worked on efficient transfer learning and low-resource NLP with [Dietrich Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). I was selected as a Google CSRMP Fellow in 2023, and most recently interned at Amazon AGI on distributed model distillation in 2025.
 
