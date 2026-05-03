@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student in Computer Science at [Virginia Tech](https://cs.vt.edu/), advised by [Tu Vu](https://tuvllms.github.io/).  My research interests focus on transferring alignment-induced behaviors (SFT, RL) across models. My goal is to build modular, reusable systems where capabilities accumulate over time instead of being isolated in one-off training runs.
+I'm a Ph.D. student in Computer Science at [Virginia Tech](https://cs.vt.edu/), advised by [Tu Vu](https://tuvllms.github.io/). My research interests focus on transferring alignment-induced behaviors (SFT, RL) across models. My overarching goal is to build modular, reusable systems in which the systems continually learn and evolve over time.
 
-- **Efficient model development:** Developing methods for faster, cheaper, and more reusable alignment updates, enabling continual adaptation across models.
+- **Efficient model development:** Developing methods for faster, cheaper, and more reusable alignment updates, enabling continual adaptation across model versions and model families.
 
-- **Continually evolving agents**: Building LLM agents that accumulate skills and raw experience for solving long-horizon tasks.
+- **Continually evolving agents**: Building LLM agents that evolve skills and effectively extract useful signals from raw trajectories for long-horizon tasks.
 
-- **Parameter-efficient transfer learning:** Modular task and document knowledge for scalable transfer.
+- **Parameter-efficient transfer learning:** Developing methods to create modular task and document knowledge for scalable transfer.
 
 - **Data-centric methods:** Data selection and sampling strategies for stronger performance under limited compute or data.
+
+- **Model harnessing** Designing systems that effectively orchestrate LLM agents with tools, memory, and feedback to improve system reasoning.
 
 Before starting my Ph.D., I completed my Master's at Saarland University where I worked on efficient transfer learning and low-resource NLP with [Dietrich Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). I was selected as a Google CSRMP Fellow in 2023, and most recently interned at Amazon AGI on distributed model distillation in 2025.
 
@@ -25,6 +27,7 @@ Before starting my Ph.D., I completed my Master's at Saarland University where I
 
 # 🔥 News
 
+- *2026.04*: One preprint on [Master Key Hypothesis](https://arxiv.org/abs/2604.06377) (eliciting the CoT behavior in latent space).
 - *2025.08*: One paper accepted as an oral presentation at EMNLP 2025.
 - *2024.10*: One paper accepted to EMNLP 2024 Industry Track.
 - *2024.09*: Paper *Target-Aware Language Modeling via Granular Data Sampling* accepted to EMNLP 2024.
@@ -32,8 +35,6 @@ Before starting my Ph.D., I completed my Master's at Saarland University where I
 - *2024.07*: Paper *Exploring the Effectiveness and Consistency of Task Selection in Intermediate-Task Transfer Learning* accepted to ACL 2024 SRW.
 - *2024.02*: Successfully defended my Master’s thesis *Exploring Task Selection for Intermediate-Task Transfer Learning*.
 - *2024.02*: Paper *Modeling Orthographic Variation Improves NLP Performance for Nigerian Pidgin* accepted to LREC-COLING 2024.
-- *2024.01*: Paper *Projecting Annotations for Discourse Relations* accepted to CODI @ EACL 2024.
-
 
 <br /> 
 
