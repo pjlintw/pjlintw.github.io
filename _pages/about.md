@@ -22,7 +22,7 @@ I'm a Ph.D. student in Computer Science at [Virginia Tech](https://cs.vt.edu/), 
 
 Before starting my Ph.D., I completed my Master's at Saarland University where I worked on efficient transfer learning and low-resource NLP with [Dietrich Klakow](https://www.lsv.uni-saarland.de/people/dietrich-klakow/) and [Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html). I was selected as a Google CSRMP Fellow in 2023, and most recently interned at Amazon AGI on distributed model distillation in 2025.
 
-<a id="-CV"></a><span style="color:darkgreen">Seeking a <strong>Research Internship</strong> (Summer 2026). Interests: LLM post-training, agents, RL, deep reasoning, and efficiency. My [CV](https://drive.google.com/file/d/1Y0d5ZqbLzsxDWYBkMjS9o6LxLoFVMpA3/view?usp=sharing) is here.</span>
+<a id="-CV"></a><span style="color:darkgreen">Seeking a <strong>Research Internship</strong> (Summer 2026). Interests: LLM post-training, agents, RL, deep reasoning, and efficiency. My [CV](https://drive.google.com/file/d/1ReOHvWH1V8qXpr4mm04_dbxAcUg8eUx4/view?usp=sharing) is here.</span>
 
 
 # 🔥 News
